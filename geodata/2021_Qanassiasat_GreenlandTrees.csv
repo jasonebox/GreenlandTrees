@@ -1,102 +1,61 @@
-,date,species,height,ID,lat,lon,elev,notes
+,date,species,height,GPS_ID,lat,lon,elev,notes
 0,2021/Aug/20,betula,,052,61.2345,45.4969,27,Niels Sakkariasen
 1,2021/Aug/20,sitchensis,,053,61.2345,45.4969,26,Niels Sakkariasen
 2,2021/Aug/20,sitchensis,,054,61.2343,45.4969,27,Niels Sakkariasen
-3,2021/Aug/20,nan,,055,61.2340,45.4967,25,nan
-4,2021/Aug/20,nan,,056,61.2341,45.4967,23,nan
-5,2021/Aug/20,Engelmani Blue Spruce,,057,61.2343,45.4969,19,Niels Sakkariasen
-6,2021/Aug/20,Engelmani Blue Spruce,,058,61.2343,45.4969,19,Niels Sakkariasen
-7,2021/Aug/20,sitchensis,,079,61.2343,45.4970,18,Niels Sakkariasen
-8,2021/Aug/20,sitchensis,,080,61.2343,45.4970,19,Niels Sakkariasen
-9,2021/Aug/20,sitchensis,,081,61.2343,45.4970,18,Niels Sakkariasen
-10,2021/Aug/20,Engelmani Blue Spruce,,082,61.2343,45.4969,18,Niels Sakkariasen
-11,2021/Aug/20,nan,,083,61.2343,45.4969,18,shoreline
-12,2021/Aug/20,nan,,084,61.2343,45.4968,13,shoreline
-13,2021/Aug/20,nan,,085,61.2343,45.4968,12,shoreline
-14,2021/Aug/20,nan,,086,61.2343,45.4968,15,shoreline
-15,2021/Aug/20,nan,,087,61.2343,45.4968,15,shoreline
-16,2021/Aug/20,nan,,088,61.2343,45.4968,13,shoreline
-17,2021/Aug/20,nan,,089,61.2343,45.4968,13,shoreline
-18,2021/Aug/20,nan,,090,61.2343,45.4969,12,shoreline
-19,2021/Aug/20,nan,,091,61.2343,45.4969,13,shoreline
-20,2021/Aug/20,nan,,092,61.2343,45.4969,12,shoreline
-21,2021/Aug/20,nan,,093,61.2341,45.4967,11,shoreline
-22,2021/Aug/20,nan,,094,61.2341,45.4967,12,shoreline
-23,2021/Aug/20,nan,,095,61.2340,45.4967,12,shoreline
-24,2021/Aug/20,nan,,096,61.2343,45.4963,14,shoreline
-25,2021/Aug/21,nan,,097,61.2341,45.4970,17,shoreline
-26,2021/Aug/21,nan,,098,61.2341,45.4970,16,shoreline
-27,2021/Aug/21,nan,,099,61.2341,45.4970,16,shoreline
-28,2021/Aug/21,nan,,100,61.2341,45.4970,16,shoreline
-29,2021/Aug/21,nan,,101,61.2341,45.4969,17,shoreline
-30,2021/Aug/21,nan,,102,61.2341,45.4969,18,shoreline
-31,2021/Aug/21,nan,,103,61.2341,45.4969,18,shoreline
-32,2021/Aug/21,nan,,104,61.2341,45.4968,15,shoreline
-33,2021/Aug/21,nan,,105,61.2341,45.4968,16,shoreline
-34,2021/Aug/21,nan,,106,61.2341,45.4971,12,shoreline
-35,2021/Aug/21,nan,,107,61.2341,45.4970,14,shoreline
-36,2021/Aug/21,nan,,108,61.2341,45.4971,14,shoreline
-37,2021/Aug/21,nan,,109,61.2341,45.4970,14,shoreline
-38,2021/Aug/21,nan,,110,61.2341,45.4970,11,shoreline
-39,2021/Aug/21,nan,,112,61.2341,45.4969,15,shoreline
-40,2021/Aug/21,nan,,113,61.2342,45.4970,10,shoreline
-41,2021/Aug/21,nan,,114,61.2347,45.4950,nan,shoreline
-42,2021/Aug/21,nan,,115,61.2342,45.4970,9,shoreline
-43,2021/Aug/21,nan,,116,61.2342,45.4969,13,shoreline
-44,2021/Aug/21,nan,,117,61.2347,45.4963,22,shoreline
-45,2021/Aug/21,nan,,118,61.2347,45.4963,24,shoreline
-46,2021/Aug/21,nan,,119,61.2346,45.4963,23,shoreline
-47,2021/Aug/21,nan,,120,61.2344,45.4963,21,shoreline
-48,2021/Aug/21,nan,,121,61.2343,45.4963,20,shoreline
-49,2021/Aug/21,nan,,122,61.2343,45.4963,20,shoreline
-50,2021/Aug/28,sitka,,123,61.2328,45.4957,2,shoreline
-51,2021/Aug/28,contorta,,124,61.2328,45.4959,8,shoreline
-52,2021/Aug/28,sibirca,,125,61.2328,45.4959,8,shoreline
-53,2021/Aug/28,contorta,,126,61.2328,45.4958,8,shoreline
-54,2021/Aug/28,sibirca,,127,61.2328,45.4956,9,shoreline
-55,2021/Aug/28,sibirca,,128,61.2328,45.4956,9,shoreline
-56,2021/Aug/28,contorta,,129,61.2328,45.4956,8,shoreline
-57,2021/Aug/28,sibirca,,130,61.2328,45.4957,8,shoreline
-58,2021/Aug/28,sibirca,,131,61.2328,45.4958,8,shoreline
-59,2021/Aug/28,contorta,,132,61.2328,45.4957,9,shoreline
-60,2021/Aug/28,contorta,,133,61.2328,45.4957,7,shoreline
-61,2021/Aug/28,sibirca,,134,61.2328,45.4957,7,shoreline
-62,2021/Aug/28,sibirca,,136,61.2328,45.4957,6,shoreline
-63,2021/Aug/28,contorta,,137,61.2329,45.4957,7,shoreline
-64,2021/Aug/28,contorta,,138,61.2328,45.4958,8,shoreline
-65,2021/Aug/28,sibirca,,139,61.2328,45.4959,8,shoreline
-66,2021/Aug/28,sitka,,140,61.2328,45.4958,7,shoreline
-67,2021/Aug/28,sibirca,,141,61.2329,45.4960,8,shoreline
-68,2021/Aug/28,contorta,,142,61.2328,45.4960,7,shoreline
-69,2021/Aug/28,sibirca,,143,61.2329,45.4959,8,shoreline
-70,2021/Aug/28,sibirca,,144,61.2328,45.4960,8,shoreline
-71,2021/Aug/28,contorta,,145,61.2329,45.4959,9,shoreline
-72,2021/Aug/28,sibirca,,146,61.2328,45.4960,7,shoreline
-73,2021/Aug/28,sibirca,,147,61.2328,45.4960,7,shoreline
-74,2021/Aug/29,sibirca,26.0,148,61.2348,45.4969,-7,nan
-75,2021/Aug/29,sibirca,24.0,149,61.2348,45.4969,1,nan
-76,2021/Aug/29,sibirca,21.0,150,61.2348,45.4968,6,nan
-77,2021/Aug/29,sibirca,24.0,151,61.2349,45.4968,5,nan
-78,2021/Aug/29,sibirca,26.0,152,61.2349,45.4968,9,nan
-79,2021/Aug/29,sibirca,22.0,153,61.2349,45.4968,8,nan
-80,2021/Aug/29,contorta,6.0,154,61.2349,45.4967,11,nan
-81,2021/Aug/29,sibirca,11.0,155,61.2349,45.4966,11,nan
-82,2021/Aug/29,sitka or engelmanni,6.0,156,61.2349,45.4967,11,nan
-83,2021/Aug/29,sibirca,7.0,157,61.2349,45.4967,12,nan
-84,2021/Aug/29,sibirca,18.0,158,61.2349,45.4967,10,nan
-85,2021/Aug/29,sibirca,14.0,159,61.2349,45.4967,12,nan
-86,2021/Aug/29,contorta,10.0,160,61.2349,45.4967,12,nan
-87,2021/Aug/29,sibirca,23.0,161,61.2349,45.4967,12,nan
-88,2021/Aug/29,sibirca,19.0,162,61.2348,45.4967,12,nan
-89,2021/Aug/29,sitka or engelmanni,15.0,163,61.2349,45.4967,12,nan
-90,2021/Aug/29,contorta,10.0,164,61.2349,45.4968,11,nan
-91,2021/Aug/29,sibirca,15.0,165,61.2349,45.4967,15,nan
-92,2021/Aug/29,sibirca,11.0,166,61.2349,45.4968,13,nan
-93,2021/Aug/29,sibirca,22.0,167,61.2349,45.4968,11,nan
-94,2021/Aug/29,contorta,5.0,168,61.2349,45.4967,11,nan
-95,2021/Aug/29,contorta,6.0,169,61.2349,45.4968,12,nan
-96,2021/Aug/29,sibirca,6.0,170,61.2349,45.4967,12,nan
-97,2021/Aug/29,contorta,8.0,171,61.2349,45.4967,13,nan
-98,2021/Aug/29,sibirca,6.0,172,61.2349,45.4968,12,nan
-99,2021/Aug/29,sibirca,8.0,173,61.2350,45.4967,12,nan
-100,2021/Aug/29,sibirca,8.0,174,61.2350,45.4967,13,nan
+3,2021/Aug/20,Engelmani Blue Spruce,,057,61.2343,45.4969,19,Niels Sakkariasen
+4,2021/Aug/20,Engelmani Blue Spruce,,058,61.2343,45.4969,19,Niels Sakkariasen
+5,2021/Aug/20,sitchensis,,079,61.2343,45.4970,18,Niels Sakkariasen
+6,2021/Aug/20,sitchensis,,080,61.2343,45.4970,19,Niels Sakkariasen
+7,2021/Aug/20,sitchensis,,081,61.2343,45.4970,18,Niels Sakkariasen
+8,2021/Aug/20,Engelmani Blue Spruce,,082,61.2343,45.4969,18,Niels Sakkariasen
+9,2021/Aug/28,sitka,,123,61.2328,45.4957,,shoreline
+10,2021/Aug/28,contorta,,124,61.2328,45.4959,,shoreline
+11,2021/Aug/28,sibirca,,125,61.2328,45.4959,,shoreline
+12,2021/Aug/28,contorta,,126,61.2328,45.4958,,shoreline
+13,2021/Aug/28,sibirca,,127,61.2328,45.4956,,shoreline
+14,2021/Aug/28,sibirca,,128,61.2328,45.4956,,shoreline
+15,2021/Aug/28,contorta,,129,61.2328,45.4956,,shoreline
+16,2021/Aug/28,sibirca,,130,61.2328,45.4957,,shoreline
+17,2021/Aug/28,sibirca,,131,61.2328,45.4958,,shoreline
+18,2021/Aug/28,contorta,,132,61.2328,45.4957,,shoreline
+19,2021/Aug/28,contorta,,133,61.2328,45.4957,,shoreline
+20,2021/Aug/28,sibirca,,134,61.2328,45.4957,,shoreline
+21,2021/Aug/28,sibirca,,136,61.2328,45.4957,,shoreline
+22,2021/Aug/28,contorta,,137,61.2329,45.4957,,shoreline
+23,2021/Aug/28,contorta,,138,61.2328,45.4958,,shoreline
+24,2021/Aug/28,sibirca,,139,61.2328,45.4959,,shoreline
+25,2021/Aug/28,sitka,,140,61.2328,45.4958,,shoreline
+26,2021/Aug/28,sibirca,,141,61.2329,45.4960,,shoreline
+27,2021/Aug/28,contorta,,142,61.2328,45.4960,,shoreline
+28,2021/Aug/28,sibirca,,143,61.2329,45.4959,,shoreline
+29,2021/Aug/28,sibirca,,144,61.2328,45.4960,,shoreline
+30,2021/Aug/28,contorta,,145,61.2329,45.4959,,shoreline
+31,2021/Aug/28,sibirca,,146,61.2328,45.4960,,shoreline
+32,2021/Aug/28,sibirca,,147,61.2328,45.4960,,shoreline
+33,2021/Aug/29,sibirca,26.0,148,61.2348,45.4969,,
+34,2021/Aug/29,sibirca,24.0,149,61.2348,45.4969,,
+35,2021/Aug/29,sibirca,21.0,150,61.2348,45.4968,,
+36,2021/Aug/29,sibirca,24.0,151,61.2349,45.4968,,
+37,2021/Aug/29,sibirca,26.0,152,61.2349,45.4968,,
+38,2021/Aug/29,sibirca,22.0,153,61.2349,45.4968,,
+39,2021/Aug/29,contorta,6.0,154,61.2349,45.4967,11,
+40,2021/Aug/29,sibirca,11.0,155,61.2349,45.4966,11,
+41,2021/Aug/29,sitka or engelmanni,6.0,156,61.2349,45.4967,11,
+42,2021/Aug/29,sibirca,7.0,157,61.2349,45.4967,12,
+43,2021/Aug/29,sibirca,18.0,158,61.2349,45.4967,,
+44,2021/Aug/29,sibirca,14.0,159,61.2349,45.4967,12,
+45,2021/Aug/29,contorta,10.0,160,61.2349,45.4967,12,
+46,2021/Aug/29,sibirca,23.0,161,61.2349,45.4967,12,
+47,2021/Aug/29,sibirca,19.0,162,61.2348,45.4967,12,
+48,2021/Aug/29,sitka or engelmanni,15.0,163,61.2349,45.4967,12,
+49,2021/Aug/29,contorta,10.0,164,61.2349,45.4968,11,
+50,2021/Aug/29,sibirca,15.0,165,61.2349,45.4967,15,
+51,2021/Aug/29,sibirca,11.0,166,61.2349,45.4968,13,
+52,2021/Aug/29,sibirca,22.0,167,61.2349,45.4968,11,
+53,2021/Aug/29,contorta,5.0,168,61.2349,45.4967,11,
+54,2021/Aug/29,contorta,6.0,169,61.2349,45.4968,12,
+55,2021/Aug/29,sibirca,6.0,170,61.2349,45.4967,12,
+56,2021/Aug/29,contorta,8.0,171,61.2349,45.4967,13,
+57,2021/Aug/29,sibirca,6.0,172,61.2349,45.4968,12,
+58,2021/Aug/29,sibirca,8.0,173,61.2350,45.4967,12,
+59,2021/Aug/29,sibirca,8.0,174,61.2350,45.4967,13,

@@ -34,14 +34,16 @@ def outputx(sentence_list,year):
         
     out=pd.DataFrame({
         'date':sentence_list[:,0].astype(str),
-        'species':sentence_list[:,1].astype(str),
+        'species':sentence_list[:,1],
         'height':sentence_list[:,2].astype(float),
-        'ID':sentence_list[:,3].astype(str),
+        'GPS_ID':sentence_list[:,3],
         'lat':sentence_list[:,4].astype(float),
         'lon':sentence_list[:,5].astype(float),
         'elev':sentence_list[:,6].astype(float),
         'notes':sentence_list[:,7].astype(str),
                       })
+
+    out.elev[out.elev<10]=np.nan
     
     # format float
     vals=['lat','lon']
@@ -52,11 +54,17 @@ def outputx(sentence_list,year):
     vals=['elev']
     for val in vals:
         out[val] = out[val].map(lambda x: '%.0f' % x)
-        
     
-    out=out.sort_values('ID')
+    out.notes[out.notes=='nan']=np.nan
+    # out.species[out.species=='nan']=np.nan
+    out[out.species=='']=np.nan #!!
+    out.elev[out.elev=='nan']=np.nan
+    
+    out=out.sort_values('GPS_ID')
     out.reset_index(drop=True, inplace=True)
 
+    out['species'].replace('', np.nan, inplace=True)
+    out.dropna(subset=['species'], inplace=True)
     # print(out)
     
     out.to_excel('./geodata/'+year+'_Qanassiasat_GreenlandTrees.xlsx')
@@ -92,16 +100,19 @@ for i,t in enumerate(temp):
         species=species.replace('Birch','betula')
         species=species.replace('Sitka spruce','sitchensis')
         if species=='nan':
-            species=np.nan
-        sentence=datex,species,df['height'][i],str(df['GPS ID'][i]).zfill(3),lat,lon,elev,df['source'][i]
+            species=''
+            # print(species)
+            # saas
+        source=df['source'][i]
+        # if species=='nan':species=''
+        # if source=='nan':source=''
+        sentence=datex,species,df['height'][i],str(df['GPS ID'][i]).zfill(3),lat,lon,elev,source
         sentence_list.append(sentence)
-        print(str(df['GPS ID'][i]).zfill(3))
+        # print(str(df['GPS ID'][i]).zfill(3))
 
         # print(lat,lon,datex)#elev,df['tree type'][i],df['height'][i])
 
 outputx(sentence_list,year)
-
-#%%
 
 # ---------------------------------------------------------------------- 2022
 year='2022'
