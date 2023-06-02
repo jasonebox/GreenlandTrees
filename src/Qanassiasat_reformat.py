@@ -91,6 +91,8 @@ for i,t in enumerate(temp):
         species=str(df['tree type'][i])
         species=species.replace('Birch','betula')
         species=species.replace('Sitka spruce','sitchensis')
+        if species=='nan':
+            species=np.nan
         sentence=datex,species,df['height'][i],str(df['GPS ID'][i]).zfill(3),lat,lon,elev,df['source'][i]
         sentence_list.append(sentence)
         print(str(df['GPS ID'][i]).zfill(3))
