@@ -55,8 +55,9 @@ def outputx(sentence_list,year):
         
     
     out=out.sort_values('ID')
+    out.reset_index(drop=True, inplace=True)
 
-    print(out)
+    # print(out)
     
     out.to_excel('./geodata/'+year+'_Qanassiasat_GreenlandTrees.xlsx')
     out.to_csv('./geodata/'+year+'_Qanassiasat_GreenlandTrees.csv')
@@ -92,6 +93,7 @@ for i,t in enumerate(temp):
         species=species.replace('Sitka spruce','sitchensis')
         sentence=datex,species,df['height'][i],str(df['GPS ID'][i]).zfill(3),lat,lon,elev,df['source'][i]
         sentence_list.append(sentence)
+        print(str(df['GPS ID'][i]).zfill(3))
 
         # print(lat,lon,datex)#elev,df['tree type'][i],df['height'][i])
 
