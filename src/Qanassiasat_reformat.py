@@ -3,7 +3,9 @@
 """
 Created on Fri Jun  2 06:55:47 2023
 
-@author: jason
+reformat Greenland Trees geodata
+
+@author: jason box
 """
 
 from datetime import datetime
@@ -22,6 +24,10 @@ import ftplib
 import calendar
 from matplotlib.ticker import FormatStrFormatter
 
+# ## change to your system's login name to change dir for local work
+if os.getlogin() == 'jason':
+    base_path = '/Users/jason/Dropbox/GT_Geodata/GreenlandTrees/'
+os.chdir(base_path)
 
 def outputx(sentence_list,year):
     sentence_list=np.array(sentence_list)
@@ -49,8 +55,8 @@ def outputx(sentence_list,year):
         
     print(out)
     
-    out.to_excel('/Users/jason/Dropbox/GT_Geodata/GT_Qanassiasat/'+year+'_Qanassiasat_GreenlandTrees.xlsx')
-    # out.to_csv('/Users/jason/Dropbox/GT_Geodata/GT_Qanassiasat/'+year+'_Qanassiasat_GreenlandTrees.csv')
+    out.to_excel('./geodata/'+year+'_Qanassiasat_GreenlandTrees.xlsx')
+    out.to_csv('./geodata/'+year+'_Qanassiasat_GreenlandTrees.csv')
     
 # ---------------------------------------------------------------------- 2021
 year='2021'
