@@ -90,7 +90,7 @@ for i,t in enumerate(temp):
         species=str(df['tree type'][i])
         species=species.replace('Birch','betula')
         species=species.replace('Sitka spruce','sitchensis')
-        sentence=datex,species,df['height'][i],df['GPS ID'][i],lat,lon,elev,df['source'][i]
+        sentence=datex,species,df['height'][i],str(df['GPS ID'][i]).zfill(3),lat,lon,elev,df['source'][i]
         sentence_list.append(sentence)
 
         # print(lat,lon,datex)#elev,df['tree type'][i],df['height'][i])
