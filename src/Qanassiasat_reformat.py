@@ -53,6 +53,9 @@ def outputx(sentence_list,year):
     for val in vals:
         out[val] = out[val].map(lambda x: '%.0f' % x)
         
+    
+    out=out.sort_values('ID')
+
     print(out)
     
     out.to_excel('./geodata/'+year+'_Qanassiasat_GreenlandTrees.xlsx')
