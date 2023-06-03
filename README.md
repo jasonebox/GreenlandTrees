@@ -16,6 +16,10 @@ planting coordinates were recorded by handheld GPS
 
 # annual reports
 
-[2019](./annual_reports/field report Greenland Trees 2019.pdf)
+[2019](./annual_reports/field_report_Greenland_Trees_2019.pdf)
 
-[2020](./annual_reports/field report Greenland Trees 2020.pdf)
+[2020](./annual_reports/field_report_Greenland_Trees_2020.pdf)
+
+[2021](./annual_reports/field_report_Greenland_Trees_2021.pdf)
+
+[2022](./annual_reports/field_report_Greenland_Trees_2022.pdf)
