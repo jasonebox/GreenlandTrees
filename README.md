@@ -10,6 +10,8 @@ planting coordinates were recorded by handheld GPS
 
 # planting registration data
 
+![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/a0238f1b-c165-4fb9-bb58-9976b387ffa2)
+
 ## Qanassiasat
 
 [2021](./geodata/2021_Qanassiasat_GreenlandTrees.csv)
@@ -25,6 +27,8 @@ planting coordinates were recorded by handheld GPS
 ![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/c338c4a8-088d-4cd6-bce8-a3508a21ab80)
 
 [2021 to 2022](./precipitation_temperature_gauge/QANASIASSAT_UTC_2021-2022.csv)
+
+![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/4737e4e4-d3eb-4185-a7f9-ea576f0b6692)
 
 # annual reports
 
