@@ -8,6 +8,14 @@ elevations are in meters units
 
 planting coordinates were recorded by handheld GPS
 
+# planting registration data
+
+## Qanassiasat
+
+[2021](./geodata/2021_Qanassiasat_GreenlandTrees.csv)
+
+[2022](./geodata/2022_Qanassiasat_GreenlandTrees.csv)
+
 # precipitation and temperature data
 
 [2020 to 2021](./precipitation_temperature_gauge/QANASIASSAT_UTC_2020-2021.csv)
