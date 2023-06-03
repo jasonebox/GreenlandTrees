@@ -18,7 +18,11 @@ planting coordinates were recorded by handheld GPS
 
 # precipitation and temperature data
 
+![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/d432085f-a20a-4b00-88ad-982873e0e12a)
+
 [2020 to 2021](./precipitation_temperature_gauge/QANASIASSAT_UTC_2020-2021.csv)
+
+![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/c338c4a8-088d-4cd6-bce8-a3508a21ab80)
 
 [2021 to 2022](./precipitation_temperature_gauge/QANASIASSAT_UTC_2021-2022.csv)
 
