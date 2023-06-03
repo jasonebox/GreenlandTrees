@@ -1,16 +1,15 @@
 # GreenlandTrees
 
-# notes
-
-heights are in cm units
-
-elevations are in meters units
-
-planting coordinates were recorded by handheld GPS
 
 # planting registration data
 
 ![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/a0238f1b-c165-4fb9-bb58-9976b387ffa2)
+
+heights are in cm units
+
+planting coordinates were recorded by handheld GPS
+
+elevations are in meters units
 
 ## Qanassiasat
 
