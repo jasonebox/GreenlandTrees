@@ -29,6 +29,20 @@ elevations are in meters units
 
 ![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/4737e4e4-d3eb-4185-a7f9-ea576f0b6692)
 
+An interesting result, Qanassiasat has recorded the following annual precipitation totals:
+end of August 2020 to end of August 2021: 933 mm 
+end of August 2021 to end of August 2022: 818 mm
+
+According to the DMI report linked below:
+- Narsarsuaq has 681 mm precipitation for the 1981 to 2010 climate "normal"
+- Qaqortoq has 987 mm precipitation for the 1981 to 2010 climate "normal"
+
+## Notes
+
+- The Qanassiasat precipitation can be expected to be slightly less than Narsarsuaq owing to its slightly more "continental" setting.
+- It would be interesting to measure the precipitation (and temperature) difference for the same periods of time between the DMI and the Qanassiasat measurements. That's doable.
+- The Qanassiasat precipitation data will have an error of delayed precipitation recordings from snow accumulating in the gauge and melting later. And for heavy snow cases, we can expect some undercatch when snow piling up on the gauge is blown or sluffs away. For this reason, we can expect the "warm season" precipitation data to be more accurate, I would guess quite accurate as the site is well sheltered by trees. On the other hand the trees can intercept some of the rain that should otherwise fall into the gauge. Precipitation is notoriously uncertain. But we try.
+
 ## nearby climate data
 
 ![Narsarsuaq](https://github.com/jasonebox/GreenlandTrees/assets/32133350/7512a7d9-199b-4a34-8ab6-ccbce8f64b6b)

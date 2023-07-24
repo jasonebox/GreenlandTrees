@@ -22,6 +22,9 @@ os.chdir(path)
 files=['QANASIASSAT_UTC_2020-2021','QANASIASSAT_UTC_2021-2022']
 # files=['QANASIASSAT_UTC_2020-2021']
 
+n_years=2
+prate=np.zeros(n_years)
+
 for i,file in enumerate(files):
     #------------------------------------------------------------------ rain data
     if site == 'QANASIASSAT':
@@ -78,7 +81,7 @@ for i,file in enumerate(files):
     # #print(hour_rain)
     
     # n_rows_rain_data = len(ppt)
-    
+    prate[i]=np.nanmax(df["precip_mm_uncorrected"])
     if i==0:
         df["air_temperature_C"]= (df.T2m - 32) * 5/9.
         ppt_offset=np.nanmax(df["precip_mm_uncorrected"])
@@ -101,6 +104,8 @@ for i,file in enumerate(files):
     else:
         header = ["time_UTC","air_temperature_C","precip_mm_uncorrected"]
         df1=df[header]
+
+print('annual precipitation',prate)
 #%% write out
 
 import matplotlib.dates as mdates
@@ -112,7 +117,7 @@ plt.close()
 fig, ax = plt.subplots(figsize=(14,10))
 dfx.index = pd.to_datetime(dfx.time_UTC)
 
-ax.plot(dfx["precip_mm_uncorrected"],label='precipitation')
+ax.plot(dfx["precip_mm_uncorrected"],label='accumulated precipitation')
 
 
 fs=16
@@ -121,7 +126,7 @@ ax.tick_params(axis='both', which='minor', labelsize=fs)
 # ax.set_ylabel(units+' anomaly relative to '+str(clim_lut.minyear[0])+' to 2022',fontsize=fs)
 # lonx=-lon
 # print(" %.4f" % lat+", %.4f" % lonx+", "+" %.0f" % elev)
-# ax.set_title(current_year+' '+varname+' at '+site+" %.3f" % lat+"°N %.3f" % lonx+"°W "+" %.0f" % elev+" m",fontsize=fs*1.1)
+ax.set_title(site)
 ax.legend(prop={'size': fs*0.8})
 ax.set_ylabel('mm',fontsize=fs)
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y %b %d'))
