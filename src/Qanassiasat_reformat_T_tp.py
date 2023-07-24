@@ -136,8 +136,9 @@ plt.setp(ax.xaxis.get_majorticklabels(), rotation=90,ha='center',fontsize=fs)
 plt.show()
 
 #%%
-# vals=['air_temperature_C','precip_mm_uncorrected']
-# for val in vals:
-#     dfx[val] = dfx[val].map(lambda x: '%.1f' % x) 
+vals=['air_temperature_C','precip_mm_uncorrected']
+for val in vals:
+    dfx[val] = dfx[val].map(lambda x: '%.1f' % x) 
     
-# dfx.to_csv('./precipitation_temperature_gauge/'+site+'_2020_to_2022'+'.csv',index=None)
+dfx.to_csv('./precipitation_temperature_gauge/'+site+'_2020_to_2022'+'.csv',index=None)
+dfx.to_excel('./precipitation_temperature_gauge/'+site+'_2020_to_2022'+'.xlsx',index=None)
