@@ -30,8 +30,8 @@ elevations are in meters units
 ![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/4737e4e4-d3eb-4185-a7f9-ea576f0b6692)
 
 An interesting result, Qanassiasat has recorded the following annual precipitation totals:
-end of August 2020 to end of August 2021: 933 mm 
-end of August 2021 to end of August 2022: 818 mm
+- end of August 2020 to end of August 2021: 933 mm 
+- end of August 2021 to end of August 2022: 818 mm
 
 According to the DMI report linked below:
 - Narsarsuaq has 681 mm precipitation for the 1981 to 2010 climate "normal"
