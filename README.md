@@ -33,7 +33,19 @@ elevations are in meters units
 
 ![Narsarsuaq](https://github.com/jasonebox/GreenlandTrees/assets/32133350/7512a7d9-199b-4a34-8ab6-ccbce8f64b6b)
 
-[DMI report](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-04.pdf)
+[Greenland – DMI Historical
+Climate Data Collection 1784-
+2020
+DMI Report 21-04
+25 May 2021](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-04.pdf)
+
+![Qaqortoq](https://github.com/jasonebox/GreenlandTrees/assets/32133350/9abfbccf-b90f-4e3d-a9eb-4402620e3e51)
+
+[Greenland – DMI Historical
+Climate Data Collection 1784-
+2020
+DMI Report 21-04
+25 May 2021](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-04.pdf)
 
 # annual reports
 
