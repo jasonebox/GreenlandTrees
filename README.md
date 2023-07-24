@@ -29,6 +29,11 @@ elevations are in meters units
 
 ![image](https://github.com/jasonebox/GreenlandTrees/assets/32133350/4737e4e4-d3eb-4185-a7f9-ea576f0b6692)
 
+## nearby climate data
+
+![Narsarsuaq](https://github.com/jasonebox/GreenlandTrees/assets/32133350/7512a7d9-199b-4a34-8ab6-ccbce8f64b6b)
+[DMI report]([./annual_reports/field_report_Greenland_Trees_2019.pdf](https://www.dmi.dk/fileadmin/Rapporter/2021/DMIRep21-04.pdf))
+
 # annual reports
 
 [2019](./annual_reports/field_report_Greenland_Trees_2019.pdf)
