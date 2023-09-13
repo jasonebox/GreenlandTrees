@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="94561">
+        <Style id="94564">
+            <IconStyle id="94566">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="94567">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="94565">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+            </LabelStyle>
+        </Style>
+        <open>1</open>
+        <Placemark id="94563">
+            <name/>
+            <styleUrl>#94564</styleUrl>
+            <Point id="94562">
+                <coordinates>-45.40341001935303,61.17008998990059,0.0</coordinates>
+                <altitudeMode>clampToGround</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,566 @@
+,date,name,lat,lon,elev,location,location2,species,height,notes,persons,orig_name
+0,2023-05-24 12:07:00+00:00,poplar 22,60.912588,-46.047204,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 22
+1,2023-05-24 12:07:00+00:00,poplar 21,60.912600,-46.047223,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 21
+2,2023-05-24 12:07:00+00:00,poplar 20,60.912613,-46.047239,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 20
+3,2023-05-24 12:07:00+00:00,poplar 19,60.912626,-46.047256,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 19
+4,2023-05-24 12:07:00+00:00,poplar 18,60.912633,-46.047267,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 18
+5,2023-05-24 12:07:00+00:00,poplar 17,60.912641,-46.047278,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 17
+6,2023-05-24 12:07:00+00:00,poplar 16,60.912649,-46.047290,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 16
+7,2023-05-24 12:07:00+00:00,poplar 15,60.912658,-46.047301,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 15
+8,2023-05-24 12:07:00+00:00,poplar 14,60.912666,-46.047313,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 14
+9,2023-05-24 12:07:00+00:00,poplar 01,60.912804,-46.047504,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 01
+10,2023-05-24 12:07:00+00:00,poplar 13,60.912675,-46.047326,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 13
+11,2023-05-24 12:07:00+00:00,poplar 11,60.912694,-46.047350,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 11
+12,2023-05-24 12:07:00+00:00,poplar 10,60.912703,-46.047362,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 10
+13,2023-05-24 12:07:00+00:00,poplar 09,60.912712,-46.047374,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 09
+14,2023-05-24 12:07:00+00:00,poplar 08,60.912721,-46.047387,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 08
+15,2023-05-24 12:07:00+00:00,poplar 07,60.912729,-46.047399,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 07
+16,2023-05-24 12:07:00+00:00,poplar 06,60.912738,-46.047410,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 06
+17,2023-05-24 12:07:00+00:00,poplar 05,60.912749,-46.047426,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 05
+18,2023-05-24 12:07:00+00:00,poplar 04,60.912760,-46.047442,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 04
+19,2023-05-24 12:07:00+00:00,poplar 12,60.912684,-46.047338,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 12
+20,2023-05-24 12:07:00+00:00,poplar 03,60.912774,-46.047462,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 03
+21,2023-05-24 12:07:00+00:00,poplar 23,60.912573,-46.047184,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 23
+22,2023-05-24 12:07:00+00:00,poplar 25,60.912545,-46.047145,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 25
+23,2023-05-24 12:07:00+00:00,poplar 24,60.912557,-46.047162,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 24
+24,2023-05-24 12:07:00+00:00,poplar 30,60.912476,-46.047053,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 30
+25,2023-05-24 12:07:00+00:00,poplar 29,60.912490,-46.047071,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 29
+26,2023-05-24 12:07:00+00:00,poplar 02,60.912786,-46.047482,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 02
+27,2023-05-24 12:07:00+00:00,poplar 27,60.912517,-46.047107,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 27
+28,2023-05-24 12:07:00+00:00,poplar 26,60.912530,-46.047125,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 26
+29,2023-05-24 12:07:00+00:00,poplar 28,60.912504,-46.047089,15,Narsaq,Tiny_Forest,poplus,30.0,cuttings from Narsarsuaq spring 2022,"Faezeh, Dirk",poplar 28
+30,2023-08-19 15:23:14+00:00,TF 2023 01,60.912421,-46.047118,15,Narsaq,Tiny_Forest,engelmannii,19.5,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0001
+31,2023-08-19 15:25:30+00:00,TF 2023 02,60.912445,-46.047119,15,Narsaq,Tiny_Forest,larix,15.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0002
+32,2023-08-19 15:27:13+00:00,TF 2023 03,60.912466,-46.047138,15,Narsaq,Tiny_Forest,contorta,37.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0003
+33,2023-08-19 15:27:46+00:00,TF 2023 04,60.912480,-46.047162,15,Narsaq,Tiny_Forest,engelmannii,26.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0004
+34,2023-08-19 15:28:12+00:00,TF 2023 05,60.912487,-46.047221,15,Narsaq,Tiny_Forest,larix,13.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0005
+35,2023-08-19 15:28:51+00:00,TF 2023 06,60.912468,-46.047199,15,Narsaq,Tiny_Forest,larix,18.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0006
+36,2023-08-19 15:29:20+00:00,TF 2023 07,60.912445,-46.047163,15,Narsaq,Tiny_Forest,larix,18.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0007
+37,2023-08-19 15:30:39+00:00,TF 2023 08,60.912474,-46.047174,15,Narsaq,Tiny_Forest,larix,6.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0008
+38,2023-08-19 15:30:58+00:00,TF 2023 09,60.912434,-46.047146,15,Narsaq,Tiny_Forest,engelmannii,13.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0009
+39,2023-08-19 15:33:40+00:00,TF 2023 10,60.912415,-46.047200,15,Narsaq,Tiny_Forest,larix,18.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0010
+40,2023-08-19 15:34:25+00:00,TF 2023 11,60.912438,-46.047182,15,Narsaq,Tiny_Forest,larix,15.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0011
+41,2023-08-19 15:35:02+00:00,TF 2023 12,60.912462,-46.047217,15,Narsaq,Tiny_Forest,larix,23.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0012
+42,2023-08-19 15:35:31+00:00,TF 2023 13,60.912475,-46.047200,15,Narsaq,Tiny_Forest,larix,13.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0013
+43,2023-08-19 15:36:55+00:00,TF 2023 14,60.912472,-46.047249,15,Narsaq,Tiny_Forest,contorta,31.5,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0014
+44,2023-08-19 15:37:57+00:00,TF 2023 15,60.912465,-46.047220,15,Narsaq,Tiny_Forest,larix,25.0,NE corner,"Jason, Mette, Anna, Reinder",Tiny forest 2023 new0015
+45,2023-08-24 14:35:36+00:00,Tas 20230009,61.145477,-45.630523,18,Tasiusaq,Tasiusaq,larix,10.0,670 m west of hostel 210 m WNW to the shore,"Jason, Jacob, Mette",Tas 20230009
+46,2023-08-24 14:39:33+00:00,Tas 20230010,61.145478,-45.630545,18,Tasiusaq,Tasiusaq,contorta,8.0,670 m west of hostel 210 m WNW to the shore,"Jason, Jacob, Mette",Tas 20230010
+47,2023-08-24 14:43:52+00:00,Tas 20230011,61.145476,-45.630587,18,Tasiusaq,Tasiusaq,engelmannii,11.0,670 m west of hostel 210 m WNW to the shore,"Jason, Jacob, Mette",Tas 20230011
+48,2023-08-24 14:45:07+00:00,Tas 20230012,61.145448,-45.630561,17,Tasiusaq,Tasiusaq,engelmannii,8.0,670 m west of hostel 210 m WNW to the shore,"Jason, Jacob, Mette",Tas 20230012
+49,2023-08-24 14:47:05+00:00,Tas 20230013,61.145459,-45.630586,18,Tasiusaq,Tasiusaq,larix,11.0,670 m west of hostel 210 m WNW to the shore,"Jason, Jacob, Mette",Tas 20230013
+50,2023-08-24 14:49:22+00:00,Tas 20230014,61.145482,-45.630542,16,Tasiusaq,Tasiusaq,contorta,10.0,670 m west of hostel 210 m WNW to the shore,"Jason, Jacob, Mette",Tas 20230014
+51,2023-08-24 17:01:37+00:00,Tas 20230015,61.144102,-45.617785,13,Tasiusaq,Tasiusaq,larix,28.0,Patch of boulder 7 m east of the hostel,"Jason, Jacob, Mette",Tas 20230015
+52,2023-08-24 17:03:13+00:00,Tas 20230016,61.144087,-45.617742,15,Tasiusaq,Tasiusaq,contorta,12.0,Patch of boulder 7 m east of the hostel,"Jason, Jacob, Mette",Tas 20230016
+53,2023-08-24 17:04:07+00:00,Tas 20230017,61.144088,-45.617752,15,Tasiusaq,Tasiusaq,engelmannii,11.0,Patch of boulder 7 m east of the hostel,"Jason, Jacob, Mette",Tas 20230017
+54,2023-08-24 17:07:00+00:00,Tas boulders and tires,61.144159,-45.617628,15,Tasiusaq,Tasiusaq,engelmannii,7.0,Patch of boulders and some tires 12 m east north east of the hostel ,"Jason, Jacob, Mette",Tas 18 boulders and tires
+55,2023-08-24 17:08:00+00:00,Tas boulders and tires,61.144168,-45.617624,15,Tasiusaq,Tasiusaq,larix,30.0,Patch of boulders and some tires 12 m east north east of the hostel,"Jason, Jacob, Mette",Tas 19 boulders and tires
+56,2023-08-24 18:20:17+00:00,Tas 20230020,61.147138,-45.609146,,Tasiusaq,Tasiusaq,engelmannii,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas 20230020
+57,2023-08-24 18:24:05+00:00,Tas 20230021,61.147138,-45.609146,,Tasiusaq,Tasiusaq,larix,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas 20230021
+58,2023-08-24 18:27:50+00:00,Tas 20230023,61.147138,-45.609146,,Tasiusaq,Tasiusaq,engelmannii,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas 20230023
+59,2023-08-24 18:29:00+00:00,Tas 20230024,61.147138,-45.609146,,Tasiusaq,Tasiusaq,larix,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas 20230024
+60,2023-08-24 18:30:35+00:00,Tas 20230025,61.147138,-45.609146,,Tasiusaq,Tasiusaq,contorta,7.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas 20230025
+61,2023-08-24 18:32:46+00:00,Tas 20230026,61.147138,-45.609146,,Tasiusaq,Tasiusaq,engelmannii,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas 20230026
+62,2023-08-24 18:40:48+00:00,Tas Farm 0001,61.147157,-45.609114,55,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0001
+63,2023-08-24 18:40:59+00:00,Tas Farm 0002,61.147149,-45.609159,56,Tasiusaq,Tasiusaq,larix,28.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0002
+64,2023-08-24 18:41:09+00:00,Tas Farm 0003,61.147145,-45.609210,55,Tasiusaq,Tasiusaq,contorta,7.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0003
+65,2023-08-24 18:41:19+00:00,Tas Farm 0004,61.147168,-45.609244,57,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0004
+66,2023-08-24 18:41:26+00:00,Tas Farm 0005,61.147197,-45.609221,55,Tasiusaq,Tasiusaq,larix,16.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0005
+67,2023-08-24 18:41:32+00:00,Tas Farm 0006,61.147199,-45.609164,55,Tasiusaq,Tasiusaq,contorta,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0006
+68,2023-08-24 18:41:45+00:00,Tas Farm 0007,61.147175,-45.609314,56,Tasiusaq,Tasiusaq,engelmannii,9.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0007
+69,2023-08-24 18:42:32+00:00,Tas Farm 0008,61.147146,-45.609234,55,Tasiusaq,Tasiusaq,larix,14.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0008
+70,2023-08-24 18:43:09+00:00,Tas Farm 0009,61.147152,-45.609417,55,Tasiusaq,Tasiusaq,engelmannii,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0009
+71,2023-08-24 18:44:29+00:00,Tas Farm 0010,61.147156,-45.609473,53,Tasiusaq,Tasiusaq,engelmannii,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0010
+72,2023-08-24 18:45:17+00:00,Tas Farm 0011,61.147143,-45.609519,52,Tasiusaq,Tasiusaq,engelmannii,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0011
+73,2023-08-24 18:46:19+00:00,Tas Farm 0012,61.147112,-45.609557,52,Tasiusaq,Tasiusaq,larix,17.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0012
+74,2023-08-24 18:47:01+00:00,Tas Farm 0013,61.147069,-45.609586,53,Tasiusaq,Tasiusaq,engelmannii,10.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0013
+75,2023-08-24 18:48:29+00:00,Tas Farm 0014,61.147037,-45.609595,52,Tasiusaq,Tasiusaq,larix,14.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0014
+76,2023-08-24 18:50:00+00:00,Tas Farm 0015,61.147023,-45.609626,51,Tasiusaq,Tasiusaq,contorta,13.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0015
+77,2023-08-24 18:50:30+00:00,Tas Farm 0016,61.147026,-45.609529,51,Tasiusaq,Tasiusaq,contorta,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0016
+78,2023-08-24 18:53:56+00:00,Tas Farm 0017,61.147051,-45.609449,53,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0017
+79,2023-08-24 18:55:46+00:00,Tas Farm 0018,61.147061,-45.609443,53,Tasiusaq,Tasiusaq,larix,12.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0018
+80,2023-08-24 18:57:05+00:00,Tas Farm 0019,61.147094,-45.609435,53,Tasiusaq,Tasiusaq,larix,12.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0019
+81,2023-08-24 18:58:41+00:00,Tas Farm 0020,61.147122,-45.609474,53,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0020
+82,2023-08-24 19:02:18+00:00,Tas Farm 0021,61.147078,-45.609615,53,Tasiusaq,Tasiusaq,contorta,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0021
+83,2023-08-24 19:03:58+00:00,Tas Farm 0022,61.147061,-45.609695,51,Tasiusaq,Tasiusaq,larix,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0022
+84,2023-08-24 19:06:02+00:00,Tas Farm 0023,61.147035,-45.609743,50,Tasiusaq,Tasiusaq,larix,12.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0023
+85,2023-08-24 19:07:28+00:00,Tas Farm 0024,61.147002,-45.609724,50,Tasiusaq,Tasiusaq,contorta,14.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0024
+86,2023-08-24 19:08:43+00:00,Tas Farm 0025,61.146976,-45.609731,50,Tasiusaq,Tasiusaq,contorta,7.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0025
+87,2023-08-24 19:09:26+00:00,Tas Farm 0026,61.146958,-45.609697,50,Tasiusaq,Tasiusaq,engelmannii,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0026
+88,2023-08-24 19:12:12+00:00,Tas Farm 0027,61.146934,-45.609721,50,Tasiusaq,Tasiusaq,larix,13.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0027
+89,2023-08-24 19:12:59+00:00,Tas Farm 0028,61.146952,-45.609793,50,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0028
+90,2023-08-24 19:13:51+00:00,Tas Farm 0029,61.146930,-45.609861,47,Tasiusaq,Tasiusaq,contorta,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0029
+91,2023-08-24 19:15:55+00:00,Tas Farm 0030,61.146960,-45.609827,49,Tasiusaq,Tasiusaq,engelmannii,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0030
+92,2023-08-24 19:17:47+00:00,Tas Farm 0031,61.146945,-45.609889,49,Tasiusaq,Tasiusaq,larix,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0031
+93,2023-08-24 19:19:15+00:00,Tas Farm 0032,61.146902,-45.609853,49,Tasiusaq,Tasiusaq,contorta,14.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0032
+94,2023-08-24 19:20:00+00:00,Tas Farm 0033,61.146883,-45.609889,49,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0033
+95,2023-08-24 19:21:56+00:00,Tas Farm 0034,61.146871,-45.609902,49,Tasiusaq,Tasiusaq,larix,16.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0034
+96,2023-08-24 19:22:42+00:00,Tas Farm 0035,61.146865,-45.609942,49,Tasiusaq,Tasiusaq,contorta,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0035
+97,2023-08-24 19:24:07+00:00,Tas Farm 0036,61.146870,-45.609982,49,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0036
+98,2023-08-24 19:25:10+00:00,Tas Farm 0037,61.146926,-45.609915,49,Tasiusaq,Tasiusaq,larix,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0037
+99,2023-08-24 19:28:24+00:00,Tas Farm 0038,61.146959,-45.609981,49,Tasiusaq,Tasiusaq,larix,17.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0038
+100,2023-08-24 19:28:40+00:00,Tas Farm 0039,61.146959,-45.609981,49,Tasiusaq,Tasiusaq,larix,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0039
+101,2023-08-24 19:29:51+00:00,Tas Farm 0040,61.146941,-45.610037,49,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0040
+102,2023-08-24 19:34:03+00:00,Tas Farm 0041,61.146895,-45.610035,49,Tasiusaq,Tasiusaq,contorta,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0041
+103,2023-08-24 19:34:50+00:00,Tas Farm 0042,61.146891,-45.609776,,Tasiusaq,Tasiusaq,engelmannii,4.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0042
+104,2023-08-24 19:35:40+00:00,Tas Farm 0043,61.146891,-45.609776,,Tasiusaq,Tasiusaq,larix,9.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0043
+105,2023-08-24 19:36:18+00:00,Tas Farm 0044,61.146891,-45.609776,,Tasiusaq,Tasiusaq,larix,12.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0044
+106,2023-08-24 19:38:43+00:00,Tas Farm 0045,61.146891,-45.609776,,Tasiusaq,Tasiusaq,contorta,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0045
+107,2023-08-24 19:39:26+00:00,Tas Farm 0046,61.146891,-45.609776,,Tasiusaq,Tasiusaq,contorta,14.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0046
+108,2023-08-24 19:40:24+00:00,Tas Farm 0047,61.146922,-45.609716,,Tasiusaq,Tasiusaq,engelmannii,,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0047
+109,2023-08-24 19:41:20+00:00,Tas Farm 0048,61.146922,-45.609656,,Tasiusaq,Tasiusaq,larix,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0048
+110,2023-08-24 19:42:40+00:00,Tas Farm 0049,61.146828,-45.610143,51,Tasiusaq,Tasiusaq,contorta,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0049
+111,2023-08-24 19:45:06+00:00,Tas Farm 0050,61.146798,-45.610182,48,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0050
+112,2023-08-24 19:51:39+00:00,Tas Farm 0051,61.146825,-45.610256,49,Tasiusaq,Tasiusaq,engelmannii,9.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0051
+113,2023-08-24 19:52:26+00:00,Tas Farm 0052,61.146812,-45.610302,49,Tasiusaq,Tasiusaq,larix,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0052
+114,2023-08-24 19:53:10+00:00,Tas Farm 0053,61.146787,-45.610315,49,Tasiusaq,Tasiusaq,contorta,,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0053
+115,2023-08-24 19:56:05+00:00,Tas Farm 0054,61.146735,-45.610315,49,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0054
+116,2023-08-24 19:57:20+00:00,Tas Farm 0055,61.146729,-45.610259,49,Tasiusaq,Tasiusaq,contorta,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0055
+117,2023-08-24 19:58:36+00:00,Tas Farm 0056,61.146695,-45.610324,49,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0056
+118,2023-08-24 19:59:17+00:00,Tas Farm 0057,61.146704,-45.610405,49,Tasiusaq,Tasiusaq,larix,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0057
+119,2023-08-24 20:00:51+00:00,Tas Farm 0058,61.146724,-45.610391,49,Tasiusaq,Tasiusaq,engelmannii,,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0058
+120,2023-08-24 20:02:29+00:00,Tas Farm 0059,61.146740,-45.610440,49,Tasiusaq,Tasiusaq,larix,9.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0059
+121,2023-08-24 20:04:29+00:00,Tas Farm 0060,61.146790,-45.610386,49,Tasiusaq,Tasiusaq,larix,9.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0060
+122,2023-08-24 20:06:03+00:00,Tas Farm 0061,61.146777,-45.610401,49,Tasiusaq,Tasiusaq,contorta,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0061
+123,2023-08-24 20:06:48+00:00,Tas Farm 0062,61.146752,-45.610375,49,Tasiusaq,Tasiusaq,larix,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0062
+124,2023-08-24 20:07:43+00:00,Tas Farm 0063,61.146749,-45.610319,49,Tasiusaq,Tasiusaq,engelmannii,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0063
+125,2023-08-24 20:09:14+00:00,Tas Farm 0064,61.146713,-45.610298,49,Tasiusaq,Tasiusaq,contorta,10.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0064
+126,2023-08-24 20:13:27+00:00,Tas Farm 0065,61.146706,-45.610299,49,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0065
+127,2023-08-24 20:14:37+00:00,Tas Farm 0066,61.146678,-45.610378,49,Tasiusaq,Tasiusaq,contorta,8.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0066
+128,2023-08-24 20:16:02+00:00,Tas Farm 0067,61.146649,-45.610441,49,Tasiusaq,Tasiusaq,contorta,10.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0067
+129,2023-08-24 20:18:17+00:00,Tas Farm 0068,61.146653,-45.610505,49,Tasiusaq,Tasiusaq,contorta,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0068
+130,2023-08-24 20:22:11+00:00,Tas Farm 0069,61.146686,-45.610525,49,Tasiusaq,Tasiusaq,larix,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0069
+131,2023-08-24 20:32:57+00:00,Tas Farm 0070,61.146732,-45.610564,49,Tasiusaq,Tasiusaq,larix,12.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0070
+132,2023-08-24 20:33:56+00:00,Tas Farm 0071,61.146767,-45.610561,49,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0071
+133,2023-08-24 20:35:18+00:00,Tas Farm 0072,61.146751,-45.610665,49,Tasiusaq,Tasiusaq,larix,11.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0072
+134,2023-08-24 20:35:52+00:00,Tas Farm 0073,61.146712,-45.610683,49,Tasiusaq,Tasiusaq,larix,15.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0073
+135,2023-08-24 20:37:15+00:00,Tas Farm 0074,61.146681,-45.610718,49,Tasiusaq,Tasiusaq,engelmannii,5.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0074
+136,2023-08-24 20:38:42+00:00,Tas Farm 0075,61.146655,-45.610675,49,Tasiusaq,Tasiusaq,contorta,6.0,below road and above cultivated area,"Jason, Jacob, Mette",Tas Farm 0075
+137,2023-08-24 21:09:14+00:00,Tas Farm 0076,61.144507,-45.614869,30,Tasiusaq,Tasiusaq,larix,12.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0076
+138,2023-08-24 21:12:03+00:00,Tas Farm 0077,61.144571,-45.614650,33,Tasiusaq,Tasiusaq,larix,13.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0077
+139,2023-08-24 21:14:55+00:00,Tas Farm 0078,61.144434,-45.614866,31,Tasiusaq,Tasiusaq,larix,3.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0078
+140,2023-08-24 21:36:23+00:00,Tas Farm 0079,61.144457,-45.615066,31,Tasiusaq,Tasiusaq,engelmannii,3.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0079
+141,2023-08-24 21:37:27+00:00,Tas Farm 0080,61.144491,-45.615046,31,Tasiusaq,Tasiusaq,engelmannii,5.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0080
+142,2023-08-24 21:38:41+00:00,Tas Farm 0081,61.144463,-45.615008,31,Tasiusaq,Tasiusaq,engelmannii,3.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0081
+143,2023-08-24 21:39:45+00:00,Tas Farm 0082,61.144445,-45.614939,31,Tasiusaq,Tasiusaq,engelmannii,4.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0082
+144,2023-08-24 21:41:08+00:00,Tas Farm 0083,61.144471,-45.614914,31,Tasiusaq,Tasiusaq,engelmannii,5.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0083
+145,2023-08-24 21:42:52+00:00,Tas Farm 0084,61.144443,-45.614840,31,Tasiusaq,Tasiusaq,engelmannii,3.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0084
+146,2023-08-24 21:44:44+00:00,Tas Farm 0085,61.144485,-45.614860,31,Tasiusaq,Tasiusaq,engelmannii,5.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0085
+147,2023-08-24 21:45:40+00:00,Tas Farm 0086,61.144475,-45.614790,31,Tasiusaq,Tasiusaq,engelmannii,4.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0086
+148,2023-08-24 21:52:21+00:00,Tas Farm 0087,61.144186,-45.616028,19,Tasiusaq,Tasiusaq,contorta,6.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0087
+149,2023-08-24 21:53:50+00:00,Tas Farm 0088,61.144216,-45.616030,19,Tasiusaq,Tasiusaq,contorta,9.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0088
+150,2023-08-24 21:55:27+00:00,Tas Farm 0089,61.144164,-45.615990,19,Tasiusaq,Tasiusaq,contorta,8.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0089
+151,2023-08-24 21:57:25+00:00,Tas Farm 0090,61.144150,-45.616135,18,Tasiusaq,Tasiusaq,contorta,5.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0090
+152,2023-08-24 21:59:15+00:00,Tas Farm 0091,61.144186,-45.616211,18,Tasiusaq,Tasiusaq,contorta,4.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0091
+153,2023-08-24 22:14:54+00:00,Tas Farm 0092,61.144165,-45.616336,15,Tasiusaq,Tasiusaq,alnus,54.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0092
+154,2023-08-24 22:15:28+00:00,Tas Farm 0093,61.144160,-45.616403,14,Tasiusaq,Tasiusaq,alnus,34.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0093
+155,2023-08-24 22:16:03+00:00,Tas Farm 0094,61.144161,-45.616481,14,Tasiusaq,Tasiusaq,alnus,53.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0094
+156,2023-08-24 22:16:51+00:00,Tas Farm 0095,61.144216,-45.616308,14,Tasiusaq,Tasiusaq,alnus,57.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0095
+157,2023-08-24 22:18:38+00:00,Tas Farm 0096,61.144195,-45.616118,16,Tasiusaq,Tasiusaq,alnus,5.0,below Lennert family white house buried in willow,"Jason, Jacob, Mette",Tas Farm 0096
+158,2023-08-24 22:18:47+00:00,Tas Farm 0097,61.144195,-45.616120,17,Tasiusaq,Tasiusaq,alnus,17.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0097
+159,2023-08-24 22:19:47+00:00,Tas Farm 0098,61.144133,-45.616181,16,Tasiusaq,Tasiusaq,alnus,34.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0098
+160,2023-08-24 22:20:33+00:00,Tas Farm 0099,61.144157,-45.616101,16,Tasiusaq,Tasiusaq,alnus,30.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0099
+161,2023-08-24 22:22:21+00:00,Tas Farm 0100,61.144168,-45.616045,17,Tasiusaq,Tasiusaq,alnus,62.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0100
+162,2023-08-24 22:23:23+00:00,Tas Farm 0101,61.144236,-45.616117,17,Tasiusaq,Tasiusaq,alnus,12.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0101
+163,2023-08-24 22:25:34+00:00,Tas Farm 0102,61.144282,-45.616031,17,Tasiusaq,Tasiusaq,alnus,57.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0102
+164,2023-08-24 22:31:07+00:00,Tas Farm 0103,61.144233,-45.615972,17,Tasiusaq,Tasiusaq,alnus,55.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0103
+165,2023-08-24 22:31:29+00:00,Tas Farm 0104,61.144209,-45.615926,17,Tasiusaq,Tasiusaq,alnus,27.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0104
+166,2023-08-24 22:32:37+00:00,Tas Farm 0105,61.144141,-45.615840,18,Tasiusaq,Tasiusaq,alnus,32.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0105
+167,2023-08-24 22:35:00+00:00,Tas Farm 0106,61.144125,-45.615892,18,Tasiusaq,Tasiusaq,alnus,40.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0106
+168,2023-08-24 22:37:45+00:00,Tas Farm 0107,61.144123,-45.615991,18,Tasiusaq,Tasiusaq,alnus,30.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0107
+169,2023-08-25 14:05:25+00:00,Tas Farm 0108,61.144398,-45.615141,52,Tasiusaq,Tasiusaq,larix,20.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0108
+170,2023-08-25 14:06:09+00:00,Tas Farm 0109,61.144388,-45.615137,52,Tasiusaq,Tasiusaq,engelmannii,8.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0109
+171,2023-08-25 14:06:32+00:00,Tas Farm 0110,61.144442,-45.615132,52,Tasiusaq,Tasiusaq,contorta,13.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0110
+172,2023-08-25 14:07:20+00:00,Tas Farm 0111,61.144432,-45.615068,53,Tasiusaq,Tasiusaq,engelmannii,10.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0111
+173,2023-08-25 14:08:03+00:00,Tas Farm 0112,61.144398,-45.615061,53,Tasiusaq,Tasiusaq,larix,12.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0112
+174,2023-08-25 14:08:45+00:00,Tas Farm 0113,61.144428,-45.615068,53,Tasiusaq,Tasiusaq,engelmannii,11.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0113
+175,2023-08-25 14:09:30+00:00,Tas Farm 0114,61.144460,-45.615027,53,Tasiusaq,Tasiusaq,contorta,11.0,RELOCATED from Tasermiut hostel,"Jason, Jacob, Mette",Tas Farm 0114
+176,2023-08-25 14:10:25+00:00,Tas Farm 0115,61.144439,-45.614996,53,Tasiusaq,Tasiusaq,alnus,49.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0115
+177,2023-08-25 14:11:11+00:00,Tas Farm 0116,61.144413,-45.614975,53,Tasiusaq,Tasiusaq,alnus,56.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0116
+178,2023-08-25 14:12:45+00:00,Tas Farm 0117,61.144482,-45.614908,53,Tasiusaq,Tasiusaq,alnus,53.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0117
+179,2023-08-25 14:13:03+00:00,Tas Farm 0118,61.144509,-45.614901,53,Tasiusaq,Tasiusaq,alnus,40.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0118
+180,2023-08-25 14:13:46+00:00,Tas Farm 0119,61.144485,-45.614947,53,Tasiusaq,Tasiusaq,alnus,41.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0119
+181,2023-08-25 14:14:17+00:00,Tas Farm 0120,61.144563,-45.614897,53,Tasiusaq,Tasiusaq,alnus,42.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0120
+182,2023-08-25 14:15:10+00:00,Tas Farm 0121,61.144543,-45.614872,53,Tasiusaq,Tasiusaq,alnus,26.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0121
+183,2023-08-25 14:16:29+00:00,Tas Farm 0122,61.144535,-45.614991,53,Tasiusaq,Tasiusaq,alnus,35.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0122
+184,2023-08-25 14:17:34+00:00,Tas Farm 0123,61.144535,-45.615054,53,Tasiusaq,Tasiusaq,alnus,30.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0123
+185,2023-08-25 14:18:59+00:00,Tas Farm 0124,61.144603,-45.614889,53,Tasiusaq,Tasiusaq,alnus,37.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0124
+186,2023-08-25 14:21:44+00:00,Tas Farm 0125,61.144622,-45.614809,53,Tasiusaq,Tasiusaq,alnus,43.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0125
+187,2023-08-25 14:24:32+00:00,Tas Farm 0126,61.144682,-45.614810,55,Tasiusaq,Tasiusaq,alnus,35.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0126
+188,2023-08-25 14:24:39+00:00,Tas Farm 0127,61.144682,-45.614812,54,Tasiusaq,Tasiusaq,alnus,27.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0127
+189,2023-08-25 14:27:39+00:00,Tas Farm 0128,61.144429,-45.614900,55,Tasiusaq,Tasiusaq,alnus,35.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0128
+190,2023-08-25 14:30:03+00:00,Tas Farm 0129,61.144387,-45.614968,55,Tasiusaq,Tasiusaq,alnus,25.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0129
+191,2023-08-25 14:32:24+00:00,Tas Farm 0130,61.144353,-45.615038,55,Tasiusaq,Tasiusaq,alnus,28.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0130
+192,2023-08-25 14:35:19+00:00,Tas Farm 0131,61.144352,-45.614928,55,Tasiusaq,Tasiusaq,alnus,17.0,above Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0131
+193,2023-08-25 14:39:36+00:00,Tas Farm 0132,61.144242,-45.616156,45,Tasiusaq,Tasiusaq,alnus,18.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0132
+194,2023-08-25 14:40:25+00:00,Tas Farm 0133,61.144230,-45.616195,45,Tasiusaq,Tasiusaq,alnus,19.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0133
+195,2023-08-25 14:41:56+00:00,Tas Farm 0134,61.144227,-45.616276,45,Tasiusaq,Tasiusaq,alnus,13.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0134
+196,2023-08-25 14:42:43+00:00,Tas Farm 0135,61.144257,-45.616220,45,Tasiusaq,Tasiusaq,alnus,15.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0135
+197,2023-08-25 14:43:39+00:00,Tas Farm 0136,61.144257,-45.616142,45,Tasiusaq,Tasiusaq,alnus,15.0,below Lennert family white house,"Jason, Jacob, Mette",Tas Farm 0136
+198,2023-08-28 19:30:26+00:00,contorta 01,61.156336,-45.420253,27,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230001
+199,2023-08-28 19:31:23+00:00,contorta 02,61.156313,-45.420215,26,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230002
+200,2023-08-28 19:31:43+00:00,contorta 03,61.156300,-45.420151,27,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230003
+201,2023-08-28 19:33:17+00:00,contorta 04,61.156193,-45.419813,28,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230004
+202,2023-08-28 19:34:11+00:00,contorta 05,61.156169,-45.419740,29,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230005
+203,2023-08-28 19:35:40+00:00,contorta 06,61.156131,-45.419612,28,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230006
+204,2023-08-28 19:37:09+00:00,contorta 07,61.156143,-45.419520,28,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230007
+205,2023-08-28 19:38:10+00:00,contorta 08,61.156303,-45.419875,29,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230008
+206,2023-08-28 19:39:41+00:00,contorta 09,61.156381,-45.419641,30,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230009
+207,2023-08-28 19:39:57+00:00,contorta 10,61.156382,-45.419671,31,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230010
+208,2023-08-28 19:40:39+00:00,contorta 11,61.156378,-45.419723,30,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230011
+209,2023-08-28 19:40:48+00:00,contorta 12,61.156376,-45.419740,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230012
+210,2023-08-28 19:42:18+00:00,contorta 13,61.156369,-45.419662,31,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230013
+211,2023-08-28 19:44:02+00:00,contorta 14,61.156384,-45.419644,31,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230014
+212,2023-08-28 19:44:33+00:00,contorta 15,61.156400,-45.419638,31,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230015
+213,2023-08-28 19:45:15+00:00,contorta 16,61.156432,-45.419472,31,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230016
+214,2023-08-28 19:46:10+00:00,contorta 17,61.156423,-45.419450,31,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230017
+215,2023-08-28 19:49:44+00:00,contorta 18,61.155982,-45.419226,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230018
+216,2023-08-28 19:50:13+00:00,contorta 19,61.155959,-45.419254,33,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230019
+217,2023-08-28 19:51:33+00:00,contorta 20,61.155973,-45.419371,33,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230020
+218,2023-08-28 19:52:17+00:00,contorta 21,61.155972,-45.419465,33,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230021
+219,2023-08-28 19:53:39+00:00,contorta 22,61.155996,-45.419586,33,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230022
+220,2023-08-28 19:54:25+00:00,contorta 23,61.155967,-45.419566,33,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230023
+221,2023-08-28 19:55:58+00:00,contorta 24,61.155984,-45.419696,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230024
+222,2023-08-28 19:56:39+00:00,contorta 25,61.156014,-45.419778,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230025
+223,2023-08-28 19:57:50+00:00,contorta 26,61.155979,-45.419894,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230026
+224,2023-08-28 19:58:25+00:00,contorta 27,61.155993,-45.419942,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230027
+225,2023-08-28 19:58:43+00:00,contorta 28,61.155978,-45.419983,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230028
+226,2023-08-28 19:59:31+00:00,contorta 29,61.155942,-45.420075,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230029
+227,2023-08-28 20:00:07+00:00,contorta 30,61.155987,-45.420073,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230030
+228,2023-08-28 20:00:44+00:00,contorta 31,61.155989,-45.420112,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230031
+229,2023-08-28 20:01:14+00:00,contorta 32,61.155975,-45.420152,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230032
+230,2023-08-28 20:01:44+00:00,contorta 33,61.155977,-45.420197,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230033
+231,2023-08-28 20:03:12+00:00,contorta 34,61.156015,-45.420149,32,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230034
+232,2023-08-28 20:03:33+00:00,contorta 35,61.156019,-45.420231,30,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230035
+233,2023-08-28 20:04:27+00:00,contorta 36,61.156030,-45.420147,30,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230036
+234,2023-08-28 20:05:02+00:00,contorta 37,61.156033,-45.420086,30,Narsarsuaq,hotel,contorta,,,"Jason, Jacob, Mette",Hotel230037
+235,2023-08-28 20:09:06+00:00,Engelm0001,61.156089,-45.418843,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0001
+236,2023-08-28 20:09:38+00:00,Engelm0002,61.156090,-45.418793,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0002
+237,2023-08-28 20:10:01+00:00,Engelm0003,61.156113,-45.418763,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0003
+238,2023-08-28 20:13:28+00:00,Engelm0004,61.156160,-45.418756,32,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0004
+239,2023-08-28 20:14:01+00:00,Engelm0005,61.156173,-45.418817,32,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0005
+240,2023-08-28 20:14:38+00:00,Engelm0006,61.156144,-45.418882,32,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0006
+241,2023-08-28 20:17:05+00:00,Engelm0007,61.156365,-45.418992,32,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0007
+242,2023-08-28 20:18:02+00:00,Engelm0008,61.156401,-45.419028,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0008
+243,2023-08-28 20:18:43+00:00,Engelm0009,61.156432,-45.419005,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0009
+244,2023-08-28 20:19:22+00:00,Engelm0010,61.156488,-45.419056,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0010
+245,2023-08-28 20:19:55+00:00,Engelm0011,61.156523,-45.419009,34,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0011
+246,2023-08-28 20:20:46+00:00,Engelm0012,61.156478,-45.419078,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0012
+247,2023-08-28 20:21:06+00:00,Engelm0013,61.156462,-45.419145,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0013
+248,2023-08-28 20:21:30+00:00,Engelm0014,61.156463,-45.419197,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0014
+249,2023-08-28 20:22:14+00:00,Engelm0015,61.156464,-45.419289,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0015
+250,2023-08-28 20:22:34+00:00,Engelm0016,61.156421,-45.419351,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0016
+251,2023-08-28 20:23:12+00:00,Engelm0017,61.156411,-45.419445,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0017
+252,2023-08-28 20:24:02+00:00,Engelm0018,61.156388,-45.419435,33,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0018
+253,2023-08-28 20:24:47+00:00,Engelm0019,61.156416,-45.419532,31,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0019
+254,2023-08-28 20:28:57+00:00,Engelm0020,61.156028,-45.421534,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0020
+255,2023-08-28 20:29:16+00:00,Engelm0021,61.156016,-45.421581,26,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0021
+256,2023-08-28 20:30:05+00:00,Engelm0022,61.155993,-45.421748,26,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0022
+257,2023-08-28 20:30:36+00:00,Engelm0023,61.155950,-45.421795,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0023
+258,2023-08-28 20:31:12+00:00,Engelm0024,61.155897,-45.421743,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0024
+259,2023-08-28 20:31:47+00:00,Engelm0025,61.155838,-45.421824,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0025
+260,2023-08-28 20:32:30+00:00,Engelm0026,61.155896,-45.422019,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0026
+261,2023-08-28 20:33:14+00:00,Engelm0027,61.155898,-45.421923,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0027
+262,2023-08-28 20:34:08+00:00,Engelm0028,61.155913,-45.422062,22,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0028
+263,2023-08-28 20:34:51+00:00,Engelm0029,61.156164,-45.421754,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0029
+264,2023-08-28 20:35:08+00:00,Engelm0030,61.156170,-45.421787,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0030
+265,2023-08-28 20:35:26+00:00,Engelm0031,61.156195,-45.421775,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0031
+266,2023-08-28 20:36:31+00:00,Engelm0032,61.156053,-45.422089,23,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0032
+267,2023-08-28 20:37:01+00:00,Engelm0033,61.156055,-45.422054,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0033
+268,2023-08-28 20:37:29+00:00,Engelm0034,61.156031,-45.422151,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0034
+269,2023-08-28 20:37:31+00:00,Engelm0035,61.156032,-45.422151,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0035
+270,2023-08-28 20:38:05+00:00,Engelm0036,61.156055,-45.421664,24,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0036
+271,2023-08-28 20:38:22+00:00,Engelm0037,61.156072,-45.421606,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0037
+272,2023-08-28 20:38:49+00:00,Engelm0038,61.156086,-45.421560,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0038
+273,2023-08-28 20:39:12+00:00,Engelm0039,61.156028,-45.421533,25,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Mette",Engelm0039
+274,2023-08-29 11:31:22+00:00,Alder0001,61.170230,-45.402576,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0001
+275,2023-08-29 11:31:31+00:00,Alder0002,61.170247,-45.402645,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0002
+276,2023-08-29 11:31:37+00:00,Alder0003,61.170262,-45.402703,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0003
+277,2023-08-29 11:31:44+00:00,Alder0004,61.170262,-45.402790,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0004
+278,2023-08-29 11:32:24+00:00,Alder0005,61.170183,-45.402754,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0005
+279,2023-08-29 11:32:37+00:00,Alder0006,61.170229,-45.402793,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0006
+280,2023-08-29 11:33:03+00:00,Alder0007,61.170152,-45.402945,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0007
+281,2023-08-29 11:33:34+00:00,Alder0008,61.170138,-45.403038,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0008
+282,2023-08-29 11:33:53+00:00,Alder0009,61.170155,-45.403111,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0009
+283,2023-08-29 11:34:18+00:00,Alder0010,61.170208,-45.403145,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0010
+284,2023-08-29 11:34:38+00:00,Alder0011,61.170239,-45.403189,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0011
+285,2023-08-29 11:35:49+00:00,Alder0012,61.170236,-45.403107,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0012
+286,2023-08-29 11:36:23+00:00,Alder0013,61.170174,-45.403228,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0013
+287,2023-08-29 11:36:46+00:00,Alder0014,61.170165,-45.403343,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0014
+288,2023-08-29 11:37:18+00:00,Alder0015,61.170128,-45.403391,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0015
+289,2023-08-29 11:38:18+00:00,Alder0016,61.170103,-45.403438,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0016
+290,2023-08-29 11:38:45+00:00,Alder0017,61.170090,-45.403410,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0017
+291,2023-08-29 11:39:06+00:00,Alder0018,61.170094,-45.403288,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0018
+292,2023-08-29 11:39:26+00:00,Alder0019,61.170052,-45.403345,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0019
+293,2023-08-29 11:40:01+00:00,Alder0020,61.170018,-45.403300,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0020
+294,2023-08-29 11:40:51+00:00,Alder0021,61.169958,-45.403514,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0021
+295,2023-08-29 11:41:22+00:00,Alder0022,61.169954,-45.403595,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0022
+296,2023-08-29 11:41:40+00:00,Alder0023,61.169999,-45.403607,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0023
+297,2023-08-29 11:42:28+00:00,Alder0024,61.169757,-45.404101,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0024
+298,2023-08-29 11:42:54+00:00,Alder0025,61.169754,-45.404243,60,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0025
+299,2023-08-29 11:43:34+00:00,Alder0026,61.169709,-45.404265,60,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0026
+300,2023-08-29 11:44:24+00:00,Alder0027,61.169723,-45.404378,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0027
+301,2023-08-29 11:44:51+00:00,Alder0028,61.169737,-45.404495,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0028
+302,2023-08-29 11:45:56+00:00,Alder0029,61.169776,-45.404630,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0029
+303,2023-08-29 11:46:19+00:00,Alder0030,61.169752,-45.404653,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0030
+304,2023-08-29 11:47:44+00:00,Alder0031,61.169849,-45.404562,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0031
+305,2023-08-29 11:48:07+00:00,Alder0032,61.169839,-45.404473,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0032
+306,2023-08-29 11:48:39+00:00,Alder0033,61.169830,-45.404394,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0033
+307,2023-08-29 11:49:14+00:00,Alder0034,61.169824,-45.404314,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0034
+308,2023-08-29 11:49:38+00:00,Alder0035,61.169867,-45.404443,59,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0035
+309,2023-08-29 11:50:14+00:00,Alder0036,61.169906,-45.404396,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0036
+310,2023-08-29 11:51:10+00:00,Alder0037,61.169893,-45.404546,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0037
+311,2023-08-29 11:51:25+00:00,Alder0038,61.169899,-45.404591,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0038
+312,2023-08-29 11:51:46+00:00,Alder0039,61.170004,-45.404751,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0039
+313,2023-08-29 11:52:25+00:00,Alder0040,61.170069,-45.404677,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0040
+314,2023-08-29 11:52:44+00:00,Alder0041,61.170084,-45.404712,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0041
+315,2023-08-29 11:53:02+00:00,Alder0042,61.170110,-45.404676,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0042
+316,2023-08-29 11:53:17+00:00,Alder0043,61.170108,-45.404613,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0043
+317,2023-08-29 11:53:35+00:00,Alder0044,61.170079,-45.404601,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0044
+318,2023-08-29 11:54:11+00:00,Alder0045,61.170060,-45.404396,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0045
+319,2023-08-29 11:54:32+00:00,Alder0046,61.170064,-45.404433,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0046
+320,2023-08-29 11:54:47+00:00,Alder0047,61.170091,-45.404469,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0047
+321,2023-08-29 11:55:19+00:00,Alder0048,61.170128,-45.404430,58,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0048
+322,2023-08-29 11:55:41+00:00,Alder0049,61.170129,-45.404511,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0049
+323,2023-08-29 11:56:12+00:00,Alder0050,61.170181,-45.404463,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0050
+324,2023-08-29 11:56:47+00:00,Alder0051,61.170167,-45.404573,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0051
+325,2023-08-29 11:57:14+00:00,Alder0052,61.170186,-45.404642,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0052
+326,2023-08-29 11:57:35+00:00,Alder0053,61.170190,-45.404584,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0053
+327,2023-08-29 11:58:32+00:00,Alder0054,61.170361,-45.404779,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0054
+328,2023-08-29 11:59:16+00:00,Alder0055,61.170366,-45.404902,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0055
+329,2023-08-29 12:00:20+00:00,Alder0056,61.170479,-45.404967,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0056
+330,2023-08-29 12:01:07+00:00,Alder0057,61.170504,-45.405033,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0057
+331,2023-08-29 12:01:56+00:00,Alder0058,61.170477,-45.405101,57,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob, Mette, Filip",Alder0058
+332,2023-08-29 12:11:23+00:00,sylvestrus 20220829 01,61.174773,-45.390154,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0001
+333,2023-08-29 12:12:00+00:00,sylvestrus 20220829 02,61.174759,-45.390283,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0002
+334,2023-08-29 12:12:22+00:00,sylvestrus 20220829 03,61.174814,-45.390374,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0003
+335,2023-08-29 12:12:55+00:00,sylvestrus 20220829 04,61.174786,-45.390410,71,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0004
+336,2023-08-29 12:13:40+00:00,sylvestrus 20220829 05,61.174845,-45.390359,69,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0005
+337,2023-08-29 12:14:27+00:00,sylvestrus 20220829 06,61.174884,-45.390383,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0006
+338,2023-08-29 12:15:01+00:00,sylvestrus 20220829 07,61.174920,-45.390324,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0007
+339,2023-08-29 12:15:31+00:00,sylvestrus 20220829 08,61.174917,-45.390244,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0008
+340,2023-08-29 12:15:51+00:00,sylvestrus 20220829 09,61.174908,-45.390157,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0009
+341,2023-08-29 12:16:12+00:00,sylvestrus 20220829 10,61.174901,-45.390116,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0010
+342,2023-08-29 12:17:20+00:00,sylvestrus 20220829 11,61.174853,-45.389936,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0011
+343,2023-08-29 12:20:08+00:00,sylvestrus 20220829 12,61.174960,-45.389550,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0012
+344,2023-08-29 12:21:21+00:00,sylvestrus 20220829 13,61.174983,-45.389387,70,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0013
+345,2023-08-29 12:24:04+00:00,sylvestrus 20220829 14,61.174811,-45.388791,75,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0014
+346,2023-08-29 12:24:47+00:00,sylvestrus 20220829 15,61.174828,-45.388943,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0015
+347,2023-08-29 12:25:05+00:00,sylvestrus 20220829 16,61.174773,-45.388984,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0016
+348,2023-08-29 12:25:18+00:00,sylvestrus 20220829 17,61.174724,-45.388994,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0017
+349,2023-08-29 12:25:30+00:00,sylvestrus 20220829 18,61.174733,-45.389112,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0018
+350,2023-08-29 12:25:49+00:00,sylvestrus 20220829 19,61.174742,-45.389209,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0019
+351,2023-08-29 12:26:07+00:00,sylvestrus 20220829 20,61.174687,-45.389216,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0020
+352,2023-08-29 12:26:21+00:00,sylvestrus 20220829 21,61.174631,-45.389223,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0021
+353,2023-08-29 12:26:40+00:00,sylvestrus 20220829 22,61.174654,-45.389304,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0022
+354,2023-08-29 12:27:15+00:00,sylvestrus 20220829 23,61.174678,-45.389429,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0023
+355,2023-08-29 12:27:30+00:00,sylvestrus 20220829 24,61.174631,-45.389486,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0024
+356,2023-08-29 12:27:53+00:00,sylvestrus 20220829 25,61.174569,-45.389491,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0025
+357,2023-08-29 12:28:27+00:00,sylvestrus 20220829 26,61.174584,-45.389543,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0026
+358,2023-08-29 12:29:02+00:00,sylvestrus 20220829 27,61.174595,-45.389605,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0027
+359,2023-08-29 12:29:29+00:00,sylvestrus 20220829 28,61.174590,-45.389704,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0028
+360,2023-08-29 12:29:55+00:00,sylvestrus 20220829 29,61.174545,-45.389695,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0029
+361,2023-08-29 12:30:10+00:00,sylvestrus 20220829 30,61.174511,-45.389696,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0030
+362,2023-08-29 12:30:25+00:00,sylvestrus 20220829 31,61.174507,-45.389755,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0031
+363,2023-08-29 12:30:38+00:00,sylvestrus 20220829 32,61.174527,-45.389834,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0032
+364,2023-08-29 12:30:53+00:00,sylvestrus 20220829 33,61.174521,-45.389919,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0033
+365,2023-08-29 12:31:16+00:00,sylvestrus 20220829 34,61.174493,-45.389978,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0034
+366,2023-08-29 12:31:58+00:00,sylvestrus 20220829 35,61.174522,-45.390100,73,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0035
+367,2023-08-29 12:32:26+00:00,sylvestrus 20220829 36,61.174572,-45.390025,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0036
+368,2023-08-29 12:32:46+00:00,sylvestrus 20220829 37,61.174588,-45.389956,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0037
+369,2023-08-29 12:33:16+00:00,sylvestrus 20220829 38,61.174640,-45.389834,74,Narsarsuaq,hospital_valley,sylvestrus,,,"Jason, Jacob, Mette, Filip",Sitca0038
+370,2023-09-03 19:03:34+00:00,sylvestrus 20220903 01,61.171524,-45.401303,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0001
+371,2023-09-03 19:04:22+00:00,sylvestrus 20220903 02,61.171567,-45.401337,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0002
+372,2023-09-03 19:05:27+00:00,sylvestrus 20220903 03,61.171638,-45.401331,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0003
+373,2023-09-03 19:06:22+00:00,sylvestrus 20220903 04,61.171584,-45.401448,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0004
+374,2023-09-03 19:06:59+00:00,sylvestrus 20220903 05,61.171595,-45.401531,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0005
+375,2023-09-03 19:07:47+00:00,sylvestrus 20220903 06,61.171577,-45.401597,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0006
+376,2023-09-03 19:08:40+00:00,sylvestrus 20220903 07,61.171558,-45.401616,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0007
+377,2023-09-03 19:09:29+00:00,sylvestrus 20220903 08,61.171540,-45.401713,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0008
+378,2023-09-03 19:10:30+00:00,sylvestrus 20220903 09,61.171545,-45.401830,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0009
+379,2023-09-03 19:13:09+00:00,sylvestrus 20220903 10,61.171577,-45.401879,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0010
+380,2023-09-03 19:14:00+00:00,sylvestrus 20220903 11,61.171558,-45.401943,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0011
+381,2023-09-03 19:14:42+00:00,sylvestrus 20220903 12,61.171543,-45.402136,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0012
+382,2023-09-03 19:15:22+00:00,sylvestrus 20220903 13,61.171584,-45.402091,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0013
+383,2023-09-03 19:16:14+00:00,sylvestrus 20220903 14,61.171610,-45.402058,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0014
+384,2023-09-03 19:16:58+00:00,sylvestrus 20220903 15,61.171690,-45.402145,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0015
+385,2023-09-03 19:17:52+00:00,sylvestrus 20220903 16,61.171714,-45.402180,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0016
+386,2023-09-03 19:18:52+00:00,sylvestrus 20220903 17,61.171714,-45.402230,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0017
+387,2023-09-03 19:20:44+00:00,sylvestrus 20220903 18,61.171636,-45.402299,111,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0018
+388,2023-09-03 19:22:37+00:00,sylvestrus 20220903 19,61.171603,-45.402506,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0019
+389,2023-09-03 19:23:19+00:00,sylvestrus 20220903 20,61.171632,-45.402501,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0020
+390,2023-09-03 19:23:45+00:00,sylvestrus 20220903 21,61.171617,-45.402440,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0021
+391,2023-09-03 19:24:08+00:00,sylvestrus 20220903 22,61.171631,-45.402447,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0022
+392,2023-09-03 19:25:08+00:00,sylvestrus 20220903 23,61.171605,-45.402458,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0023
+393,2023-09-03 19:26:12+00:00,sylvestrus 20220903 24,61.171586,-45.402489,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0024
+394,2023-09-03 19:26:44+00:00,sylvestrus 20220903 25,61.171598,-45.402526,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0025
+395,2023-09-03 19:28:40+00:00,sylvestrus 20220903 26,61.171517,-45.402395,110,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0026
+396,2023-09-03 19:29:19+00:00,sylvestrus 20220903 27,61.171466,-45.402426,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0027
+397,2023-09-03 19:30:00+00:00,sylvestrus 20220903 28,61.171487,-45.402452,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0028
+398,2023-09-03 19:31:08+00:00,sylvestrus 20220903 29,61.171503,-45.402700,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0029
+399,2023-09-03 19:32:03+00:00,sylvestrus 20220903 30,61.171523,-45.402724,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0030
+400,2023-09-03 19:35:04+00:00,sylvestrus 20220903 31,61.171514,-45.402838,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0031
+401,2023-09-03 19:35:43+00:00,sylvestrus 20220903 32,61.171491,-45.402787,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0032
+402,2023-09-03 19:35:56+00:00,sylvestrus 20220903 33,61.171491,-45.402783,109,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0033
+403,2023-09-03 19:37:29+00:00,sylvestrus 20220903 34,61.171535,-45.403058,107,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0034
+404,2023-09-03 19:38:12+00:00,sylvestrus 20220903 35,61.171568,-45.403065,107,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0035
+405,2023-09-03 19:38:20+00:00,sylvestrus 20220903 36,61.171566,-45.403060,108,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0036
+406,2023-09-03 19:38:24+00:00,sylvestrus 20220903 37,61.171566,-45.403058,108,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0037
+407,2023-09-03 19:38:28+00:00,sylvestrus 20220903 38,61.171566,-45.403058,107,Narsarsuaq,IKEA,sylvestrus,,,"Jason, Jacob",Pinus UAK0038
+408,2023-09-03 19:45:23+00:00,Alder 0059,61.171302,-45.402315,107,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0059
+409,2023-09-03 19:46:21+00:00,Alder 0060,61.171310,-45.402374,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0060
+410,2023-09-03 19:47:41+00:00,Alder 0061,61.171311,-45.402396,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0061
+411,2023-09-03 19:48:36+00:00,Alder 0062,61.171298,-45.402352,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0062
+412,2023-09-03 19:49:20+00:00,Alder 0063,61.171258,-45.402347,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0063
+413,2023-09-03 19:53:48+00:00,Alder 0064,61.171133,-45.402398,105,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0064
+414,2023-09-03 19:54:00+00:00,Alder 0065,61.171160,-45.402320,105,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0065
+415,2023-09-03 19:56:03+00:00,Alder 0066,61.171132,-45.402572,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0066
+416,2023-09-03 19:58:29+00:00,Alder 0067,61.171106,-45.402812,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0067
+417,2023-09-03 19:58:32+00:00,Alder 0068,61.171106,-45.402812,106,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0068
+418,2023-09-03 20:04:10+00:00,Alder 0069,61.171225,-45.403186,105,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0069
+419,2023-09-03 20:04:41+00:00,Alder 0070,61.171232,-45.403124,105,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0070
+420,2023-09-03 20:06:36+00:00,Alder 0071,61.171167,-45.403246,104,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0071
+421,2023-09-03 20:07:23+00:00,Alder 0072,61.171132,-45.403326,104,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0072
+422,2023-09-03 20:07:59+00:00,Alder 0073,61.171139,-45.403478,104,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0073
+423,2023-09-03 20:09:16+00:00,Alder 0074,61.171110,-45.403617,101,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0074
+424,2023-09-03 20:10:02+00:00,Alder 0075,61.171085,-45.403791,102,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0075
+425,2023-09-03 20:11:07+00:00,Alder 0076,61.171077,-45.403989,103,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0076
+426,2023-09-03 20:12:31+00:00,Alder 0077,61.170914,-45.404109,104,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",Alder 0077
+427,2023-09-03 20:14:35+00:00,0077,61.170555,-45.404032,104,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0077
+428,2023-09-03 20:16:00+00:00,0078,61.170511,-45.404037,105,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0078
+429,2023-09-03 20:17:54+00:00,0079,61.169941,-45.404970,104,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0079
+430,2023-09-03 20:27:51+00:00,0080,61.169853,-45.405200,102,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0080
+431,2023-09-03 20:28:40+00:00,0081,61.169882,-45.405268,102,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0081
+432,2023-09-03 20:30:08+00:00,0082,61.169891,-45.405299,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0082
+433,2023-09-03 20:35:55+00:00,0083,61.169932,-45.405130,102,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0083
+434,2023-09-03 20:40:38+00:00,0084,61.170656,-45.404035,102,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0084
+435,2023-09-03 20:40:54+00:00,0085,61.170569,-45.404025,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0085
+436,2023-09-03 20:41:10+00:00,0086,61.170670,-45.404055,101,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0086
+437,2023-09-03 20:42:23+00:00,0087,61.170692,-45.404023,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0087
+438,2023-09-03 20:42:47+00:00,0088,61.170715,-45.403994,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0088
+439,2023-09-03 20:44:00+00:00,0089,61.170699,-45.403958,99,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0089
+440,2023-09-03 20:44:34+00:00,0090,61.170716,-45.403880,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0090
+441,2023-09-03 20:45:31+00:00,0091,61.170732,-45.403796,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0091
+442,2023-09-03 20:46:29+00:00,0092,61.170705,-45.403690,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0092
+443,2023-09-03 20:47:11+00:00,0093,61.170670,-45.403676,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0093
+444,2023-09-03 20:47:54+00:00,0094,61.170629,-45.403571,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0094
+445,2023-09-03 20:48:57+00:00,0095,61.170645,-45.403286,100,Narsarsuaq,IKEA,alnus,,,"Jason, Jacob",0095
+446,2023-09-05 12:28:26+00:00,sylvestrus 20220905 01,61.156743,-45.420074,89,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0001
+447,2023-09-05 12:29:27+00:00,sylvestrus 20220905 02,61.156722,-45.420110,89,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0002
+448,2023-09-05 12:30:53+00:00,sylvestrus 20220905 03,61.156741,-45.420121,88,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0003
+449,2023-09-05 12:32:11+00:00,sylvestrus 20220905 04,61.156721,-45.420091,88,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0004
+450,2023-09-05 12:33:24+00:00,sylvestrus 20220905 05,61.156706,-45.420059,88,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0005
+451,2023-09-05 12:34:53+00:00,sylvestrus 20220905 06,61.156726,-45.419999,88,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0006
+452,2023-09-05 12:36:25+00:00,sylvestrus 20220905 07,61.156781,-45.419995,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0007
+453,2023-09-05 12:38:02+00:00,sylvestrus 20220905 08,61.156801,-45.419968,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0008
+454,2023-09-05 12:39:45+00:00,sylvestrus 20220905 09,61.156798,-45.419927,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0009
+455,2023-09-05 12:43:02+00:00,sylvestrus 20220905 10,61.156842,-45.419781,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0010
+456,2023-09-05 12:43:57+00:00,sylvestrus 20220905 11,61.156851,-45.419764,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0011
+457,2023-09-05 12:45:07+00:00,sylvestrus 20220905 12,61.156897,-45.419789,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0012
+458,2023-09-05 12:45:39+00:00,sylvestrus 20220905 13,61.156927,-45.419773,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0013
+459,2023-09-05 12:47:03+00:00,sylvestrus 20220905 14,61.156927,-45.419761,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0014
+460,2023-09-05 12:49:07+00:00,sylvestrus 20220905 15,61.156939,-45.419746,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0015
+461,2023-09-05 12:50:23+00:00,sylvestrus 20220905 16,61.156953,-45.419710,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0016
+462,2023-09-05 12:51:37+00:00,sylvestrus 20220905 17,61.156972,-45.419708,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0017
+463,2023-09-05 12:52:39+00:00,sylvestrus 20220905 18,61.157011,-45.419690,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0018
+464,2023-09-05 12:54:00+00:00,sylvestrus 20220905 19,61.157059,-45.419649,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0019
+465,2023-09-05 12:56:04+00:00,sylvestrus 20220905 20,61.157110,-45.419661,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0020
+466,2023-09-05 12:57:43+00:00,sylvestrus 20220905 21,61.157142,-45.419713,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0021
+467,2023-09-05 13:00:07+00:00,sylvestrus 20220905 22,61.157188,-45.419735,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0022
+468,2023-09-05 13:01:36+00:00,sylvestrus 20220905 23,61.157201,-45.419779,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0023
+469,2023-09-05 13:02:44+00:00,sylvestrus 20220905 24,61.157219,-45.419718,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0024
+470,2023-09-05 13:06:37+00:00,sylvestrus 20220905 25,61.157323,-45.419720,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0025
+471,2023-09-05 13:08:00+00:00,sylvestrus 20220905 26,61.157339,-45.419658,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0026
+472,2023-09-05 13:09:25+00:00,sylvestrus 20220905 27,61.157375,-45.419658,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0027
+473,2023-09-05 13:11:18+00:00,sylvestrus 20220905 28,61.157355,-45.419659,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0028
+474,2023-09-05 13:13:48+00:00,sylvestrus 20220905 29,61.157339,-45.419587,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0029
+475,2023-09-05 13:15:12+00:00,sylvestrus 20220905 30,61.157314,-45.419570,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0030
+476,2023-09-05 13:16:53+00:00,sylvestrus 20220905 31,61.157294,-45.419544,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0031
+477,2023-09-05 13:18:35+00:00,sylvestrus 20220905 32,61.157275,-45.419564,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0032
+478,2023-09-05 13:19:25+00:00,sylvestrus 20220905 33,61.157255,-45.419575,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0033
+479,2023-09-05 13:20:19+00:00,sylvestrus 20220905 34,61.157234,-45.419598,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0034
+480,2023-09-05 13:21:49+00:00,sylvestrus 20220905 35,61.157212,-45.419627,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0035
+481,2023-09-05 13:24:13+00:00,sylvestrus 20220905 36,61.157210,-45.419620,87,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0036
+482,2023-09-05 13:25:11+00:00,sylvestrus 20220905 37,61.157291,-45.419631,91,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0037
+483,2023-09-05 13:27:42+00:00,sylvestrus 20220905 38,61.157292,-45.419657,93,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0038
+484,2023-09-05 13:28:59+00:00,sylvestrus 20220905 39,61.157300,-45.419648,93,Narsarsuaq,hotel,sylvestrus,,,"Jason, Jacob, Ray, Mark",Sylvest 0039
+485,2023-09-05 13:34:20+00:00,Alder 0096,61.156720,-45.420079,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0096
+486,2023-09-05 13:37:21+00:00,Alder 0097,61.156755,-45.420060,90,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0097
+487,2023-09-05 13:39:43+00:00,Alder 0098,61.156802,-45.420011,90,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0098
+488,2023-09-05 13:40:38+00:00,Alder 0099,61.156812,-45.419987,90,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0099
+489,2023-09-05 13:41:57+00:00,Alder 0100,61.156817,-45.420010,90,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0100
+490,2023-09-05 13:44:17+00:00,Alder 0101,61.156844,-45.420039,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0101
+491,2023-09-05 13:44:52+00:00,Alder 0102,61.156850,-45.420016,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0102
+492,2023-09-05 13:45:37+00:00,Alder 0103,61.156874,-45.419958,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0103
+493,2023-09-05 13:47:02+00:00,Alder 0104,61.156866,-45.419907,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0104
+494,2023-09-05 13:47:41+00:00,Alder 0105,61.156853,-45.419844,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0105
+495,2023-09-05 13:48:35+00:00,Alder 0106,61.156841,-45.419767,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0106
+496,2023-09-05 13:49:21+00:00,Alder 0107,61.156834,-45.419749,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0107
+497,2023-09-05 13:50:34+00:00,Alder 0108,61.156866,-45.419773,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0108
+498,2023-09-05 13:51:13+00:00,Alder 0109,61.156887,-45.419803,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0109
+499,2023-09-05 13:52:30+00:00,Alder 0110,61.156943,-45.419707,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0110
+500,2023-09-05 13:52:59+00:00,Alder 0111,61.156967,-45.419720,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0111
+501,2023-09-05 13:53:32+00:00,Alder 0112,61.156979,-45.419775,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0112
+502,2023-09-05 13:54:12+00:00,Alder 0113,61.157018,-45.419742,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0113
+503,2023-09-05 13:56:46+00:00,Alder 0114,61.157063,-45.419684,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0114
+504,2023-09-05 13:57:03+00:00,Alder 0115,61.157093,-45.419775,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0115
+505,2023-09-05 13:59:28+00:00,Alder 0116,61.157094,-45.419715,94,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0116
+506,2023-09-05 14:00:10+00:00,Alder 0117,61.157097,-45.419667,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0117
+507,2023-09-05 14:01:33+00:00,Alder 0118,61.157221,-45.419729,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0118
+508,2023-09-05 14:01:53+00:00,Alder 0119,61.157255,-45.419733,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0119
+509,2023-09-05 14:02:40+00:00,Alder 0120,61.157278,-45.419686,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0120
+510,2023-09-05 14:04:57+00:00,Alder 0121,61.157327,-45.419632,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0121
+511,2023-09-05 14:05:24+00:00,Alder 0122,61.157294,-45.419592,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0122
+512,2023-09-05 14:05:57+00:00,Alder 0123,61.157275,-45.419563,92,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0123
+513,2023-09-05 14:07:03+00:00,Alder 0124,61.157236,-45.419579,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0124
+514,2023-09-05 14:09:03+00:00,Alder 0125,61.157242,-45.419568,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0125
+515,2023-09-05 14:09:22+00:00,Alder 0126,61.157275,-45.419620,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0126
+516,2023-09-05 14:10:10+00:00,Alder 0127,61.157259,-45.419668,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0127
+517,2023-09-05 14:11:10+00:00,Alder 0128,61.157187,-45.419756,91,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0128
+518,2023-09-05 16:56:02+00:00,Engelm0040,61.157471,-45.420426,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0040
+519,2023-09-05 16:56:53+00:00,Engelm0041,61.157509,-45.420492,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0041
+520,2023-09-05 16:57:28+00:00,Engelm0042,61.157528,-45.420518,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0042
+521,2023-09-05 16:58:21+00:00,Engelm0043,61.157670,-45.420453,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0043
+522,2023-09-05 16:58:58+00:00,Engelm0044,61.157678,-45.420551,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0044
+523,2023-09-05 16:59:30+00:00,Engelm0045,61.157678,-45.420533,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0045
+524,2023-09-05 17:00:13+00:00,Engelm0046,61.157784,-45.420418,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0046
+525,2023-09-05 17:00:50+00:00,Engelm0047,61.157791,-45.420431,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0047
+526,2023-09-05 17:01:38+00:00,Engelm0048,61.157934,-45.420425,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0048
+527,2023-09-05 17:02:10+00:00,Engelm0049,61.157953,-45.420466,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0049
+528,2023-09-05 17:02:48+00:00,Engelm0050,61.158008,-45.420499,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0050
+529,2023-09-05 17:03:44+00:00,Engelm0051,61.157933,-45.420185,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0051
+530,2023-09-05 17:04:34+00:00,Engelm0052,61.157895,-45.420063,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0052
+531,2023-09-05 17:05:22+00:00,Engelm0053,61.157931,-45.420307,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0053
+532,2023-09-05 17:06:26+00:00,Engelm0054,61.157661,-45.419996,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0054
+533,2023-09-05 17:07:20+00:00,Engelm0055,61.157743,-45.419907,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0055
+534,2023-09-05 17:08:32+00:00,Engelm0056,61.158064,-45.420075,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0056
+535,2023-09-05 17:09:06+00:00,Engelm0057,61.157876,-45.419995,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0057
+536,2023-09-05 17:09:48+00:00,Engelm0058,61.157872,-45.420066,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0058
+537,2023-09-05 17:10:35+00:00,Engelm0059,61.157953,-45.420545,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0059
+538,2023-09-05 17:11:07+00:00,Engelm0060,61.157930,-45.420429,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0060
+539,2023-09-05 17:11:59+00:00,Engelm0061,61.157966,-45.420558,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0061
+540,2023-09-05 17:13:00+00:00,Engelm0062,61.157832,-45.421078,98,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0062
+541,2023-09-05 17:13:33+00:00,Engelm0063,61.157748,-45.421157,98,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0063
+542,2023-09-05 17:14:14+00:00,Engelm0064,61.157716,-45.421282,98,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0064
+543,2023-09-05 17:15:13+00:00,Engelm0065,61.157890,-45.421646,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0065
+544,2023-09-05 17:15:52+00:00,Engelm0066,61.157886,-45.421746,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0066
+545,2023-09-05 17:16:40+00:00,Engelm0067,61.157956,-45.421734,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0067
+546,2023-09-05 17:17:07+00:00,Engelm0068,61.157977,-45.421671,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0068
+547,2023-09-05 17:17:45+00:00,Engelm0069,61.157977,-45.421611,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0069
+548,2023-09-05 17:18:19+00:00,Engelm0070,61.157967,-45.421498,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0070
+549,2023-09-05 17:19:08+00:00,Engelm0071,61.158040,-45.421470,98,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0071
+550,2023-09-05 17:19:46+00:00,Engelm0072,61.158085,-45.421353,99,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0072
+551,2023-09-05 17:21:08+00:00,Engelm0073,61.158216,-45.421814,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0073
+552,2023-09-05 17:21:47+00:00,Engelm0074,61.158155,-45.421963,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0074
+553,2023-09-05 17:22:25+00:00,Engelm0075,61.158220,-45.421804,100,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0075
+554,2023-09-05 17:23:34+00:00,Engelm0076,61.158378,-45.421005,101,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0076
+555,2023-09-05 17:24:15+00:00,Engelm0077,61.158433,-45.420954,101,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0077
+556,2023-09-05 17:25:31+00:00,Engelm0078,61.158312,-45.420719,101,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0078
+557,2023-09-05 17:26:33+00:00,Engelm0079,61.158555,-45.420645,102,Narsarsuaq,hotel,engelmannii,,,"Jason, Jacob, Ray, Mark",Engelm0079
+558,2023-09-05 17:31:33+00:00,Alder 0129,61.156765,-45.420685,97,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0129
+559,2023-09-05 17:32:30+00:00,Alder 0130,61.156795,-45.420634,98,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0130
+560,2023-09-05 17:33:04+00:00,Alder 0131,61.156778,-45.420735,97,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0131
+561,2023-09-05 17:34:35+00:00,Alder 0132,61.156552,-45.420315,97,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0132
+562,2023-09-05 17:35:28+00:00,Alder 0133,61.156357,-45.420707,97,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0133
+563,2023-09-05 17:36:08+00:00,Alder 0134,61.156365,-45.420656,97,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0134
+564,2023-09-05 17:37:24+00:00,Alder 0135,61.156235,-45.420730,97,Narsarsuaq,hotel,alnus,,,"Jason, Jacob, Ray, Mark",Alder 0135
